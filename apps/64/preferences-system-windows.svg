@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ah" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="an">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path id="q" d="m0 2v60l2 2h60l2-2v-60h-32z" style="color:#000000;fill:#aeb4c3"/>
+	<path id="r" d="m2 0-2 1v1h63.999v-1l-2-1h-42.437z" style="color:#000000;fill:#e7ecf0"/>
+	<path id="z" d="m64 4-2-2 2-1z" style="fill:#ccd1db"/>
+	<path id="b" d="m0 1v3l2-2z" style="fill:#f2f5f7"/>
+	<g id="c">
+		<rect id="m" x="4" y="15" width="56" height="45" style="color:#000000;fill-opacity:.53578;fill:#ffffff"/>
+		<g id="active-center" transform="matrix(.5625 0 0 .5625 1.7324 4)">
+			<rect id="v" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="s" d="m5.4688 4.0312-1.4375 1.4375 2.5312 2.5312-2.5312 2.5312 1.4375 1.4375 2.5312-2.5312 2.5312 2.5312 1.4375-1.4375-2.5312-2.5312 2.5312-2.5312-1.4375-1.4375-2.5312 2.5312z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="x" transform="matrix(.5625 0 0 .5625 19.732 4)">
+			<rect id="t" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="j" d="m5 5v6h6v-6zm2 2h2v2h-2z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="w" transform="matrix(.5625 0 0 .5625 10.732 4)">
+			<rect id="d" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="i" d="m4 6.9671v2.0329h8v-2.0329z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+		<g id="h" transform="matrix(.5625 0 0 .5625 53 4)">
+			<rect id="u" width="16" height="16" style="fill-opacity:.44581;fill:#ffffff;opacity:.001"/>
+			<path id="k" d="M 6.5625,6.7344 4.0313,9.2656 5.4688,10.7031 8,8.1719 10.5312,10.7031 11.9687,9.2656 8,5.2969 Z" style="color:#000000;fill-opacity:.6586;fill:#00122b;text-indent:0;text-transform:none"/>
+		</g>
+	</g>
+</svg>

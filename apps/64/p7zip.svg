@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="b" cx="21.359" cy="33.235" r="18.656" gradientTransform="matrix(2.9298 5.0745 -5.1457 2.9709 138.44 -181.13)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#b2d3d5" offset="0"/>
+			<stop stop-color="#deeced" stop-opacity=".99608" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="31.297" cy="43.593" r="32" gradientTransform="matrix(2.9032 0 0 2.8125 -85.862 -111.61)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#4a4867" stop-opacity=".59174" offset="0"/>
+			<stop stop-color="#5e5ba2" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="#304259"/>
+	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#c3d4e9"/>
+	<path d="m0 1v3l2-2z" fill="#729bcd"/>
+	<path d="m64 4-2-2 2-1z" fill="#4f6f97"/>
+	<rect x="12" width="24" height="4" color="#000000" fill="#d9fff8"/>
+	<path d="m12 2v62h24v-18.875h13.312v-3.5312h-7.9688l7.6875-10.5v-3h-13.031v-26.094zm4 20.875h16v2.9375l-8.4375 19.312h-4.9375l8.375-18.281h-11zm20 8.75h7.75l-7.75 10.562z" color="#000000" fill="url(#b)"/>
+</svg>

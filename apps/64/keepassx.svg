@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="41" cy="40.119" r="32" gradientTransform="matrix(1 0 0 .98438 0 .50781)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#339421" offset="0"/>
+			<stop stop-color="#47ae32" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 1v33 28l2 2h30 30l2-2v-28-33h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h32 32v-1l-2-1h-30z" color="#000000" fill="#a9fa99"/>
+	<path d="m64 4-2-2 2-1z" fill="#82cd73"/>
+	<path d="m0 1v3l2-2z" fill="#cefdc4"/>
+	<path d="m41.5 15c-4.6943 0-8.5 3.8057-8.5 8.5 0 1.1736 0.23396 2.3033 0.66406 3.3203l-2.7891 2.7891-10.359-10.359h-4.5156v4.5156l10.359 10.359-10.359 10.359v4.5156h4.5156l2.125-2.125h6.1094v-6.1094l2.125-2.125 10.359 10.359h4.5156v-4.5156l-10.359-10.359 2.7891-2.7891c1.017 0.4301 2.1467 0.66406 3.3203 0.66406 4.6943 0 8.5-3.8057 8.5-8.5 0-4.6943-3.8057-8.5-8.5-8.5zm2.1875 3.125c1.7604 0 3.1875 1.4272 3.1875 3.1875 0 1.7604-1.4271 3.1875-3.1875 3.1875-1.7603 0-3.1875-1.4272-3.1875-3.1875 0-1.7603 1.4272-3.1875 3.1875-3.1875z" color="#000000" fill="#d2fadd" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<metadata id="d">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs id="e">
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+	</defs>
+	<g id="b" transform="translate(9398.6 -5028)">
+		<path id="e" d="m-9394.6 5032c-0.5541 0-1 0.4459-1 1v4h9.5781l-2.8867-5zm6.8457 0 4.041 7 4.041-7zm9.2285 0.016-5.7637 9.9844h6.6895v-9c0-0.5277-0.4086-0.9447-0.9258-0.9844zm-17.074 5.9844v9c0 0.5277 0.4086 0.9447 0.9258 0.9844l5.7637-9.9844zm6.1133 3-4.041 7h8.082zm2.3086 2 2.8867 5h5.6914c0.5541 0 1-0.4459 1-1v-4z" style="fill:currentColor;fill-opacity:0.75;" class="ColorScheme-Text"/>
+		<path id="c" transform="translate(-9398.6 5028)" d="m4.002 3c-1.0906 0-2 0.9094-2 2v14c0 1.0439 0.8358 1.9049 1.8457 1.9824l16.154 0.017578c1.0906 0 2-0.9094 2-2v-14c0-1.0439-0.83971-1.903-1.8496-1.9805-5.1856 0.12289-10.816-0.019531-16.15-0.019531zm-0.0019531 1h5.6914l2.8867 5h-9.5781v-4c0-0.5541 0.4459-1 1-1zm6.8457 0h8.082l-4.041 7zm9.2285 0.015625c0.5172 0.0397 0.92578 0.45668 0.92578 0.98438v9h-6.6895zm-6.998 5.8496 0.94336 1.6348c0.08874 0.15212 0.21608 0.27812 0.36914 0.36523l-0.94531 1.6348c-0.08736 0.15213-0.13316 0.32457-0.13281 0.5h-1.8887c-0.17561 2.45e-4 -0.34806 0.04673-0.5 0.13477l-0.94141-1.6348c-0.088742-0.15212-0.21608-0.27812-0.36914-0.36523l0.94531-1.6348c0.08736-0.15213 0.13316-0.32457 0.13281-0.5h1.8867c0.17561-2.451e-4 0.34806-0.046725 0.5-0.13477zm-10.076 0.13477h6.6895l-5.7637 9.9844c-0.5172-0.0397-0.92578-0.45668-0.92578-0.98438zm6.1133 3 4.041 7h-8.082zm2.3086 2h9.5781v4c0 0.5541-0.4459 1-1 1h-5.6914z" style="fill:currentColor;fill-opacity:0.5;" class="ColorScheme-Background"/>
+	</g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="a" cx="39" cy="40.226" r="32" gradientTransform="matrix(1 0 0 .96875 0 1.0312)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3817e3" stop-opacity=".2508" offset="0"/>
+			<stop stop-color="#3a17e3" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#1d7ee8"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#5ed4ff"/>
+	<path d="m0 1v3l2-2z" fill="#90e1ff"/>
+	<path d="m64 4-2-2 2-1z" fill="#3ba5f2" fill-opacity=".99228"/>
+	<path d="m10 11v15h4v-8.1562l8 7.9688v5.1875h4v-4h4v-4h-5.1875l-7.9688-8h8.1562v-4zm29 0v4h8.1562l-7.9688 8h-5.1875v4h4v4h4v-5.1875l8-7.9688v8.1562h4v-15h-4zm-17 24v8h8v-4h-4v-4zm16 0v4h-4v4h5.1875l7.9688 8h-8.1562v4h15v-15h-4v8.1562l-8-7.9688v-5.1875z" color="#000000" fill="#fed844"/>
+	<path d="m10 11v1h15v-1zm29 0v1h15v-1h-4zm-22.156 5 7.9688 8h5.1875v-1h-5.1875l-6.9727-7zm29.316 0-6.9727 7h-5.1875v1h5.1875l7.9688-8zm-24.16 19v1h4v-1zm16 0v1h4v-1zm-12 4v1h4v-1zm8 0v1h4v-1zm16 1v1h4v-1zm-8 0.1875v1l8 7.9688v-1zm-3 10.812v1h8.1562l-0.99609-1z" color="#000000" fill="#e4ff86" fill-opacity=".49761"/>
+</svg>

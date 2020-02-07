@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+				color:#090d11;
+			}
+			.ColorScheme-Background{
+				color:#ffffff;
+			}</style>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m2 2c-0.554 0-1 0.446-1 1v2h2.2812l2.4121 5.2266 0.9707-7.2891 2.5938 4.668 1.0176-4.5781 3.5312 6.9727h1.1934v-7c0-0.554-0.446-1-1-1h-12zm8.6465 3.9727-0.98242 4.4219-2.4062-4.332-1.0293 7.7109-3.5879-7.7734h-1.6406v7c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-2h-1.8066l-2.5469-5.0273z" style="fill-opacity:.75;fill:currentColor" class="ColorScheme-Text" />
+	<path d="m16 10.5h-2.5l-3.0392-6-1 4.5-2.5-4.5-1 7.5-3-6.5h-2.4608m1.5001-4h12c0.83107 0 1.5001 0.66905 1.5001 1.5001v9.9998c0 0.83107-0.66905 1.5001-1.5001 1.5001h-12c-0.83107 0-1.5001-0.66905-1.5001-1.5001v-9.9998c0-0.83107 0.66905-1.5001 1.5001-1.5001z" style="fill:none;stroke-miterlimit:9;stroke-opacity:.5;stroke:currentColor" class="ColorScheme-Background" />
+</svg>

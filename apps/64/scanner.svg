@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient id="a">
+			<stop stop-color="#00ffff" stop-opacity=".4415" offset="0"/>
+			<stop stop-color="#00ffff" stop-opacity=".21202" offset=".4"/>
+			<stop stop-color="#00ffff" stop-opacity=".082094" offset=".6"/>
+			<stop stop-color="#00ffff" stop-opacity=".024564" offset=".8"/>
+			<stop stop-color="#00ffff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<radialGradient id="e" cx="15.437" cy="75.614" r="15.5" gradientTransform="matrix(3.5484 5.2298e-7 0 -2.7855 -21.777 250.62)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<linearGradient id="h" x1="21" x2="21" y1="12" y2="41" gradientTransform="translate(-1,-68)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".30317" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient id="g" x1="44" x2="44" y1="12" y2="41" gradientTransform="translate(-1,-68)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#000000" stop-opacity=".20609" offset="0"/>
+			<stop stop-color="#000000" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<radialGradient id="f" cx="4.04" cy="31.417" r="15.5" gradientTransform="matrix(0 1.6129 -1.0323 0 87.43 24.484)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="d" cx="4.04" cy="31.417" r="15.5" gradientTransform="matrix(0 1.6129 1.0323 0 -23.43 24.484)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+		<radialGradient id="c" cx="32.001" cy="52.999" r="23" gradientTransform="matrix(1.7391 -3.3607e-8 4.3689e-8 2.2609 -23.654 -63.825)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8b99ae" offset="0"/>
+			<stop stop-color="#9da9ba" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="32" cy="2" r="32" gradientTransform="matrix(1 0 0 .61335 0 .77331)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ccd1db" stop-opacity=".12152" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".6692" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 1 2-1h60l2 1v61l-2 2h-60l-2-2z" color="#000000" fill="#8b99ad"/>
+	<path d="m0 1 2-1h60l2 1v1h-64z" color="#000000" fill="#dee4ec"/>
+	<path d="m0 1 2-1h60l2 1v1h-64z" color="#000000" fill="url(#b)"/>
+	<path d="m64 4-2-2 2-1z" fill="#c7ced7"/>
+	<path d="m0 4 2-2-2-1z" fill="#f1f2f4"/>
+	<path d="m11 58c-2.216 0-4-1.784-4-4v-52h50v52c0 2.216-1.784 4-4 4z" color="#000000" fill="#596274" fill-opacity=".6138"/>
+	<path d="m7 2v52c0 1.3529 0.66532 2.5268 1.6875 3.25-0.43045-0.6382-0.6875-1.419-0.6875-2.25v-52h49v-1z" color="#000000" fill="#000000" fill-opacity=".23297"/>
+	<path d="m12 57c-1.108 0-2-0.892-2-2v-52h46v52c0 1.108-0.892 2-2 2z" color="#000000" fill="#000000" fill-opacity=".23297"/>
+	<path d="m11 58c-2.216 0-4-1.784-4-4v-52h50v52c0 2.216-1.784 4-4 4z" color="#000000" fill="#dbfeff"/>
+	<path d="m2 2-2 2v58l2 2h62v-60l-2-2z" color="#000000" fill="url(#e)"/>
+	<g>
+		<path d="m0 64v-58l2-2h29v60z" color="#000000" fill="url(#d)"/>
+		<path d="m64 64v-58l-2-2h-29v60z" color="#000000" fill="url(#f)"/>
+	</g>
+	<path d="m9 4v-2h46v2z" color="#000000" fill="#dce1ea"/>
+	<path d="m9 3v-1h46v1z" color="#000000" fill="#202f45" fill-opacity=".11392"/>
+	<path d="m11 56c-1.108 0-2-0.892-2-2v-50h46v50c0 1.108-0.892 2-2 2z" color="#000000" fill="url(#c)"/>
+	<rect transform="scale(1,-1)" x="20" y="-56" width="1" height="29" rx="0" ry="0" color="#000000" fill="url(#h)"/>
+	<rect transform="scale(1,-1)" x="42" y="-56" width="1" height="29" rx="0" ry="0" color="#000000" fill="url(#g)"/>
+	<g transform="translate(1)">
+		<rect x="54" width="2" height="4" color="#000000" fill="#000000" fill-opacity=".45161" opacity=".32371"/>
+	</g>
+	<g transform="translate(-47)">
+		<rect x="54" width="2" height="4" color="#000000" fill="#000000" fill-opacity=".45161" opacity=".32371"/>
+	</g>
+	<rect x="45" y="1" width="6" height="1" color="#000000" fill="#000000" fill-opacity=".63082" opacity=".32371"/>
+	<rect x="37" y="1" width="6" height="1" color="#000000" fill="#000000" fill-opacity=".63082" opacity=".32371"/>
+</svg>

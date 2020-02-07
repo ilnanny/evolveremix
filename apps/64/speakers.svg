@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="d" cx="35.327" cy="36.063" r="32" gradientTransform="matrix(1.0524 0 0 1.0195 -1.933 -.90663)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#d05f09" offset="0"/>
+			<stop stop-color="#f4c544" offset="1"/>
+		</radialGradient>
+		<radialGradient id="c" cx="26.73" cy="29.392" r="17" gradientTransform="matrix(1.0455 0 0 1.0455 -1.2169 -1.3381)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8a4519" offset="0"/>
+			<stop stop-color="#8a4c26" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="41.481" cy="43.481" r="17" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#f6ff3e" stop-opacity=".46271" offset="0"/>
+			<stop stop-color="#f6ff3e" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="27.922" cy="31.853" r="17" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#446285" offset="0"/>
+			<stop stop-color="#446285" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#d)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#f6ff3e"/>
+	<path d="m0 1v3l2-2z" fill="#f4f5d0"/>
+	<path d="m64 4-2-2 2-1z" fill="#e1d679"/>
+	<g transform="translate(0,-1)">
+		<path d="m32 11c-3.3324 0-6.4849 0.72508-9.3438 2h-8.6562c-1.662 0-3 1.338-3 3v8.6562c-1.2749 2.8589-2 6.0113-2 9.3438s0.72508 6.4849 2 9.3438v8.6562c0 1.662 1.338 3 3 3h8.6562c2.8589 1.2749 6.0113 2 9.3438 2s6.4849-0.72508 9.3438-2h8.6562c1.662 0 3-1.338 3-3v-8.6562c1.2749-2.8589 2-6.0113 2-9.3438s-0.72508-6.4849-2-9.3438v-8.6562c0-1.662-1.338-3-3-3h-8.6562c-2.8589-1.2749-6.0113-2-9.3438-2z" color="#000000" fill="#3e5979"/>
+		<path d="m48.25 17.75-32.5 32.5c4.1622 4.1622 9.8987 6.75 16.25 6.75 3.3324 0 6.4849-0.72508 9.3438-2h8.6562c1.662 0 3-1.338 3-3v-8.6562c1.2749-2.8589 2-6.0113 2-9.3438 0-6.3513-2.5878-12.088-6.75-16.25z" color="#000000" fill="#000000" fill-opacity=".12191"/>
+		<circle transform="matrix(1.2353 0 0 1.2353 -7.5294 -8)" cx="32" cy="34" r="17" color="#000000" fill="#000000" fill-opacity=".21595"/>
+		<circle cx="32" cy="34" r="17" color="#000000" fill="#d69127"/>
+		<circle cx="32" cy="34" r="17" color="#000000" fill="url(#c)"/>
+		<circle transform="translate(1.4e-6,2e-6)" cx="32" cy="34" r="17" color="#000000" fill="url(#b)"/>
+		<circle transform="matrix(.52941 0 0 .52941 15.059 16)" cx="32" cy="34" r="17" color="#000000" fill="#2c3f55"/>
+		<circle transform="matrix(.058824 0 0 .058824 13.118 15)" cx="32" cy="34" r="17" color="#000000" fill="#b6c9d1"/>
+		<circle transform="matrix(0 .058824 -.058824 0 51 15.118)" cx="32" cy="34" r="17" color="#000000" fill="#b6c9d1"/>
+		<circle transform="matrix(.058824 0 0 .058824 47.118 49)" cx="32" cy="34" r="17" color="#000000" fill="#b6c9d1"/>
+		<circle transform="matrix(0 .058824 -.058824 0 17 49.118)" cx="32" cy="34" r="17" color="#000000" fill="#b6c9d1"/>
+		<rect transform="rotate(-45)" x="-8.4142" y="39.669" width="14" height="17.5" rx="7" ry="7" color="#000000" fill="#480000" fill-opacity=".095707"/>
+		<circle transform="matrix(.41176 0 0 .41176 18.824 20)" cx="32" cy="34" r="17" color="#000000" fill="url(#a)"/>
+	</g>
+</svg>

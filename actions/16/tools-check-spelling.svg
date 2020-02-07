@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<defs>
+		<radialGradient id="b" cx="23.739" cy="11.105" r="8.7344" gradientTransform="matrix(2.1753 0 0 2.1753 -43.64 -10.157)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffffff" stop-opacity=".74858" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity=".60511" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="-9335.6" cy="5000.6" r="9" gradientTransform="matrix(1.6668 0 0 1.4816 15569 -7395.6)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#213851" stop-opacity=".9059" offset="0"/>
+			<stop stop-color="#27303a" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g transform="translate(9379.3 -4843.2)" shape-rendering="auto">
+		<path d="m-9376.3 4845.2-1 1v7h2v-2h2v2h2v-7l-1-1zm6 0v8h2 3l1-1v-4l-1-1h-3v-2zm-5 2h2v2h-2zm7 2h2v2h-2zm-7 5.1504-2.4238 2.4258-0.4239 0.4238 0.8477 0.8477 0.4258-0.4239 1.5742-1.5761 2 2 2-2 2 2 2-2 1.5762 1.5761 0.4238 0.4239 0.8496-0.8477-0.4238-0.4238-2.4258-2.4258-2 2-2-2-2 2z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#090d11" fill-opacity=".76621" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east_asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path transform="translate(-9379.3 4843.2)" d="m3 2-1 1v7h2v-2h2v2h2v-7l-1-1h-4zm6 0v8h2 3l1-1v-4l-1-1h-3v-2h-2zm-5 2h2v2h-2v-2zm7 2h2v2h-2v-2zm-7 5.1504-2.4238 2.4258-0.42383 0.42383 0.84766 0.84766 0.42578-0.42383 1.5742-1.5762 2 2 2-2 2 2 2-2 1.5762 1.5762 0.42383 0.42383 0.84961-0.84766-0.42383-0.42383-2.4258-2.4258-2 2-2-2-2 2-2-2z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#a)" fill-opacity=".75328" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east_asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<path transform="translate(-9379.3 4843.2)" d="m2.5938 1-0.3125 0.28125-1 1-0.28125 0.3125v0.40625 7 1h1 2 1 1 2 1 2 3 0.40625l0.3125-0.28125 1-1 0.28125-0.3125v-0.40625-4-0.40625l-0.28125-0.3125-1-1-0.3125-0.28125h-0.40625-2v-1-1h-1-2-1v0.5625l-0.28125-0.28125-0.3125-0.28125h-0.40625-4-0.40625zm0.40625 1h4l1 1v7h-2v-2h-2v2h-2v-7l1-1zm6 0h2v2h3l1 1v4l-1 1h-3-2v-8zm-5 2v2h2v-2h-2zm7 2v2h2v-2h-2zm-7 6.9004-2.4238 2.4258-0.42383 0.42383 0.84766 0.84766 0.42578-0.42383 1.5742-1.5762 2 2 2-2 2 2 2-2 1.5762 1.5762 0.42383 0.42383 0.84961-0.84766-0.42383-0.42383-2.4258-2.4258-2 2-2-2-2 2-2-2z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#b)" fill-opacity=".99858" image-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east_asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+	</g>
+</svg>

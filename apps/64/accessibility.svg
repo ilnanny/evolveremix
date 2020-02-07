@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="32" cy="33" r="32" gradientTransform="matrix(1.3125 0 0 1.2715 -10 -8.959)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00a7ba" stop-opacity=".72941" offset="0"/>
+			<stop stop-color="#00bacd" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32z" color="#000000" fill="#33ac33"/>
+	<path d="m0 2v32 28l2 2h30 30l2-2v-28-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1z" color="#000000" fill="#46fa77"/>
+	<path d="m64 4-2-2 2-1z" fill="#41ca5a" fill-opacity=".99317"/>
+	<path d="m0 1v3l2-2z" fill="#5bff88"/>
+	<path d="m32 13c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4-1.7909-4-4-4zm-16 8v2l11 4v6l-4 18h3l6-15 6 15h3l-4-18v-6l11-4v-2l-16 2z" color="#000000" fill="#e3f4f6"/>
+	<path d="m32 13c-2.2091 0-4 1.7909-4 4 0 0.17117 0.02992 0.3345 0.05078 0.5 0.24841-1.9706 1.9112-3.5 3.9492-3.5s3.7008 1.5294 3.9492 3.5c0.020864-0.1655 0.050782-0.32883 0.050782-0.5 0-2.2091-1.7909-4-4-4zm-16 8v1l16 2 16-2v-1l-16 2zm11 12-4 18h0.22266l3.7773-17zm10 0v1l3.7773 17h0.22266z" color="#000000" fill="#ffffff" fill-opacity=".70701"/>
+	<path d="m35.312 14.75c0.4313 0.6384 0.6875 1.4216 0.6875 2.25 0 2.2091-1.7909 4-4 4-0.82843 0-1.6116-0.2562-2.25-0.6875 0.72457 1.0226 1.9013 1.6875 3.25 1.6875 2.2091 0 4-1.7909 4-4 0-1.3487-0.66489-2.5254-1.6875-3.25zm13.688 7.25-1 0.125v0.875l-11 4v6l4 18h-2.4062l0.40625 1h3l-4-18v-6l11-4zm-32 1.375v0.625l10 3.625v-0.625zm15 12.625-6 15h-1.7812l-0.21875 1h3l5.6875-14.25z" color="#000000" fill="#003c00" fill-opacity=".095541"/>
+</svg>

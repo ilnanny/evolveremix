@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<linearGradient id="f">
+			<stop stop-color="#fbffff" offset="0"/>
+			<stop stop-color="#13deff" offset=".21357"/>
+			<stop stop-color="#50ffb2" stop-opacity=".263" offset=".44167"/>
+			<stop stop-color="#81f559" stop-opacity=".25074" offset=".51998"/>
+			<stop stop-color="#b1ec5b" stop-opacity=".14793" offset=".59392"/>
+			<stop stop-color="#d3e55c" stop-opacity=".099852" offset=".64674"/>
+			<stop stop-color="#ffdd5f" stop-opacity=".051775" offset=".71467"/>
+			<stop stop-color="#fff6d5" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<radialGradient id="g" cx="41.138" cy="20.136" r="11.49" gradientTransform="matrix(1.5983 0 0 1.5983 -25.838 -13.154)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#371182" offset="0"/>
+			<stop stop-color="#371183" offset=".18918"/>
+			<stop stop-color="#371183" offset=".31687"/>
+			<stop stop-color="#51118c" offset=".44118"/>
+			<stop stop-color="#8c238c" stop-opacity=".99216" offset=".57144"/>
+			<stop stop-color="#ffa710" stop-opacity=".99216" offset=".72331"/>
+			<stop stop-color="#ffeeaa" stop-opacity=".99112" offset="1"/>
+		</radialGradient>
+		<radialGradient id="l" cx="43.802" cy="72.347" r="44.323" gradientTransform="matrix(2.1097 1.2181 -.32373 .56072 -7.1705 -6.8568)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#75d189" offset="0"/>
+			<stop stop-color="#2d2052" offset=".75553"/>
+			<stop stop-color="#793285" offset=".85024"/>
+			<stop stop-color="#e0b594" offset="1"/>
+		</radialGradient>
+		<radialGradient id="k" cx="10.871" cy="25.114" r="2.1001" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+		<radialGradient id="e" cx="10.862" cy="25.128" r=".92213" gradientTransform="matrix(1 0 0 1.0085 0 -.21277)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+		<radialGradient id="j" cx="10.871" cy="25.114" r="2.1001" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#fffffb" offset="0"/>
+			<stop stop-color="#ffa110" stop-opacity=".588" offset=".16885"/>
+			<stop stop-color="#ff7150" stop-opacity=".18" offset=".44167"/>
+			<stop stop-color="#f55959" stop-opacity=".122" offset=".51998"/>
+			<stop stop-color="#ec5b5b" stop-opacity=".067" offset=".59392"/>
+			<stop stop-color="#e55c5c" stop-opacity=".027" offset=".64674"/>
+			<stop stop-color="#ff5f80" stop-opacity=".012" offset=".71467"/>
+			<stop stop-color="#fff6d5" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="d" cx="10.862" cy="25.128" r=".92213" gradientTransform="matrix(1 0 0 1.0085 0 -.21277)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#fbffff" offset="0"/>
+			<stop stop-color="#f7ff13" stop-opacity=".61767" offset=".21357"/>
+			<stop stop-color="#ff8750" stop-opacity=".17669" offset=".44167"/>
+			<stop stop-color="#f55c59" stop-opacity=".14551" offset=".51998"/>
+			<stop stop-color="#ec5b79" stop-opacity=".10393" offset=".59392"/>
+			<stop stop-color="#d65ce5" stop-opacity=".0683" offset=".64674"/>
+			<stop stop-color="#b45fff" stop-opacity=".040831" offset=".71467"/>
+			<stop stop-color="#e8d5ff" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="i" cx="96.37" cy="151.14" r="151.41" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ffa110" stop-opacity=".011878" offset="0"/>
+			<stop stop-color="#ff1035" stop-opacity=".023529" offset=".8001"/>
+			<stop stop-color="#ff6d20" stop-opacity=".29621" offset=".91296"/>
+			<stop stop-color="#ff9217" stop-opacity=".55605" offset=".95732"/>
+			<stop stop-color="#ffb610" stop-opacity=".83073" offset="1"/>
+		</radialGradient>
+		<radialGradient id="h" cx="43.32" cy="8.5604" r="32" gradientTransform="matrix(-2.9919 0 0 -1.851 194.51 67.043)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#802ad2" offset="0"/>
+			<stop stop-color="#792ad2" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="m" cx="72.061" cy="61.749" r="32" gradientTransform="matrix(-2.3377,0,0,-2.2646,200.25,155.12)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#391089" offset="0"/>
+			<stop stop-color="#5c527a" stop-opacity=".075724" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="58.737" cy="61.739" r="32" gradientTransform="matrix(1.8056 0 0 1.7491 -42.054 -38.975)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#ff994a" offset="0"/>
+			<stop stop-color="#feb431" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#0a0035"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#h)"/>
+	<path d="m2 0-2 1v1h64v-1l-2-1h-30z" color="#000000" fill="#9063ff"/>
+	<path d="m64 8.1387a151.41 151.41 0 0 0-64 22.451v31.41l2 2h60l2-2v-53.861z" fill="url(#i)" style="paint-order:normal"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#m)"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)"/>
+	<g>
+		<g id="c" transform="translate(-1.8191 -1.6416)">
+			<circle cx="10.871" cy="25.114" r="2.1001" fill="url(#k)" opacity=".126" style="paint-order:normal"/>
+			<path d="m11.617 25.529-0.7235-0.32197-0.7235 0.32197 0.64058-0.46558 0.08292-0.78755 0.08292 0.78755z" fill="url(#e)" style="paint-order:normal"/>
+			<path transform="matrix(.85015 -.85015 .85015 .85015 -19.707 13.01)" d="m11.617 25.529-0.7235-0.32197-0.7235 0.32197 0.64058-0.46558 0.08292-0.78755 0.08292 0.78755z" fill="url(#e)" style="paint-order:normal"/>
+		</g>
+		<use transform="matrix(.63988 0 0 .63988 9.0778 10.555)" width="100%" height="100%" stroke-width="1.5628" xlink:href="#c"/>
+		<use transform="matrix(.64055 0 0 .64055 3.4599 14.644)" width="100%" height="100%" stroke-width="1.5612" xlink:href="#c"/>
+		<use transform="matrix(.92681 0 0 .92681 -3.9941 11.665)" width="100%" height="100%" stroke-width="1.079" xlink:href="#c"/>
+		<use transform="matrix(.69824 0 0 .69824 5.8952 9.4849)" width="100%" height="100%" stroke-width="1.4322" xlink:href="#c"/>
+		<use transform="matrix(1.2976 0 0 1.2976 26.867 -11.07)" width="100%" height="100%" stroke-width=".77064" xlink:href="#c"/>
+		<use transform="matrix(.99696 0 0 .99696 34.508 -5.122)" width="100%" height="100%" stroke-width="1.003" xlink:href="#c"/>
+		<use transform="matrix(.75258 0 0 .75258 48.808 -.78973)" width="100%" height="100%" stroke-width="1.3288" xlink:href="#c"/>
+		<use transform="matrix(.79693 0 0 .79693 -4.0138 12.593)" width="100%" height="100%" stroke-width="1.2548" xlink:href="#c"/>
+		<use transform="matrix(1.3222 0 0 1.3222 26.041 -6.6723)" width="100%" height="100%" stroke-width=".75632" xlink:href="#c"/>
+		<use transform="matrix(1.3167 0 0 1.3167 30.207 -7.514)" width="100%" height="100%" stroke-width=".75946" xlink:href="#c"/>
+		<use transform="matrix(.81118 0 0 .81118 43.266 5.4767)" width="100%" height="100%" stroke-width="1.2328" xlink:href="#c"/>
+		<use transform="matrix(1.0473 0 0 1.0473 42.073 -1.2094)" width="100%" height="100%" stroke-width=".95486" xlink:href="#c"/>
+		<use transform="matrix(1.235 0 0 1.235 31.817 -1.2801)" width="100%" height="100%" stroke-width=".80973" xlink:href="#c"/>
+		<use transform="matrix(1.0747 0 0 1.0747 29.45 2.4411)" width="100%" height="100%" stroke-width=".9305" xlink:href="#c"/>
+		<use transform="matrix(.74388 0 0 .74388 40.637 7.9079)" width="100%" height="100%" stroke-width="1.3443" xlink:href="#c"/>
+		<use transform="matrix(1.1718 0 0 1.1718 37.997 -4.1116)" width="100%" height="100%" stroke-width=".85337" xlink:href="#c"/>
+		<use transform="matrix(1.0701 0 0 1.0701 30.161 -2.7689)" width="100%" height="100%" stroke-width=".93449" xlink:href="#c"/>
+		<use transform="matrix(.98764 0 0 .98764 29.008 -.82612)" width="100%" height="100%" stroke-width="1.0125" xlink:href="#c"/>
+		<use transform="matrix(1.0563 0 0 1.0563 25.238 .91009)" width="100%" height="100%" stroke-width=".94669" xlink:href="#c"/>
+		<use transform="matrix(1.0576 0 0 1.0576 27.84 .91614)" width="100%" height="100%" stroke-width=".94558" xlink:href="#c"/>
+		<use transform="matrix(.96025 0 0 .96025 42.988 -2.7152)" width="100%" height="100%" stroke-width="1.0414" xlink:href="#c"/>
+		<use transform="matrix(.79986 0 0 .79986 35.31 2.396)" width="100%" height="100%" stroke-width="1.2502" xlink:href="#c"/>
+		<use transform="matrix(.74136 0 0 .74136 33.623 4.1955)" width="100%" height="100%" stroke-width="1.3489" xlink:href="#c"/>
+		<use transform="matrix(1.1472 0 0 1.1472 29.899 1.1605)" width="100%" height="100%" stroke-width=".87166" xlink:href="#c"/>
+		<use transform="matrix(.87105 0 0 .87105 33.798 10.396)" width="100%" height="100%" stroke-width="1.148" xlink:href="#c"/>
+		<use transform="matrix(1.1632 0 0 1.1632 37.324 5.5761)" width="100%" height="100%" stroke-width=".85967" xlink:href="#c"/>
+		<use transform="matrix(1.054 0 0 1.054 39.67 8.188)" width="100%" height="100%" stroke-width=".94874" xlink:href="#c"/>
+		<use transform="matrix(1.0027 0 0 1.0027 42.697 -1.4093)" width="100%" height="100%" stroke-width=".9973" xlink:href="#c"/>
+		<use transform="matrix(1.0656 0 0 1.0656 44.803 3.1201)" width="100%" height="100%" stroke-width=".93844" xlink:href="#c"/>
+		<use transform="matrix(.68263 0 0 .68263 48.446 13.394)" width="100%" height="100%" stroke-width="1.4649" xlink:href="#c"/>
+		<use transform="matrix(1.0523 0 0 1.0523 50.891 -1.9448)" width="100%" height="100%" stroke-width=".95026" xlink:href="#c"/>
+		<use transform="matrix(1.1309 0 0 1.1309 49.49 -8.8888)" width="100%" height="100%" stroke-width=".88423" xlink:href="#c"/>
+		<use transform="matrix(.81933 0 0 .81933 51.076 5.5224)" width="100%" height="100%" stroke-width="1.2205" xlink:href="#c"/>
+		<use transform="matrix(.90301 0 0 .90301 41.467 -2.6553)" width="100%" height="100%" stroke-width="1.1074" xlink:href="#c"/>
+		<use transform="matrix(.69316 0 0 .69316 44.142 5.9933)" width="100%" height="100%" stroke-width="1.4427" xlink:href="#c"/>
+		<use transform="matrix(.63757 0 0 .63757 47.639 6.7433)" width="100%" height="100%" stroke-width="1.5685" xlink:href="#c"/>
+		<use transform="matrix(.98694 0 0 .98694 44.706 -1.7228)" width="100%" height="100%" stroke-width="1.0132" xlink:href="#c"/>
+		<use transform="matrix(.80494 0 0 .80494 45.619 .71333)" width="100%" height="100%" stroke-width="1.2423" xlink:href="#c"/>
+		<use transform="matrix(.78616 0 0 .78616 33.053 -4.1251)" width="100%" height="100%" stroke-width="1.272" xlink:href="#c"/>
+		<use transform="matrix(.72027 0 0 .72027 32.274 -2.701)" width="100%" height="100%" stroke-width="1.3884" xlink:href="#c"/>
+		<use transform="matrix(.89632 0 0 .89632 28.064 1.0373)" width="100%" height="100%" stroke-width="1.1157" xlink:href="#c"/>
+		<use transform="matrix(1.3215 0 0 1.3215 28.085 -11.333)" width="100%" height="100%" stroke-width=".7567" xlink:href="#c"/>
+		<use transform="matrix(.70122 0 0 .70122 33.413 -3.0141)" width="100%" height="100%" stroke-width="1.4261" xlink:href="#c"/>
+		<use transform="matrix(1.2651 0 0 1.2651 26.716 -18.387)" width="100%" height="100%" stroke-width=".79047" xlink:href="#c"/>
+		<use transform="matrix(.64461 0 0 .64461 23.74 -3.4297)" width="100%" height="100%" stroke-width="1.5513" xlink:href="#c"/>
+		<use transform="matrix(.71584 0 0 .71584 28.385 8.9959)" width="100%" height="100%" stroke-width="1.397" xlink:href="#c"/>
+		<use transform="matrix(1.2481 0 0 1.2481 30.422 -14.296)" width="100%" height="100%" stroke-width=".80122" xlink:href="#c"/>
+		<use transform="matrix(.91148 0 0 .91148 32.594 -8.4147)" width="100%" height="100%" stroke-width="1.0971" xlink:href="#c"/>
+		<use transform="matrix(1.3429 0 0 1.3429 23.255 -1.7192)" width="100%" height="100%" stroke-width=".74467" xlink:href="#c"/>
+		<use transform="matrix(.79767 0 0 .79767 29.657 10.659)" width="100%" height="100%" stroke-width="1.2537" xlink:href="#c"/>
+		<use transform="matrix(.66428 0 0 .66428 31.932 10.285)" width="100%" height="100%" stroke-width="1.5054" xlink:href="#c"/>
+		<use transform="matrix(.74326 0 0 .74326 32.562 4.9915)" width="100%" height="100%" stroke-width="1.3454" xlink:href="#c"/>
+		<use transform="matrix(.79033 0 0 .79033 31.042 2.7413)" width="100%" height="100%" stroke-width="1.2653" xlink:href="#c"/>
+		<use transform="matrix(1.0038 0 0 1.0038 24.712 -.29047)" width="100%" height="100%" stroke-width=".99625" xlink:href="#c"/>
+		<use transform="matrix(.90506 0 0 .90506 25.421 2.5647)" width="100%" height="100%" stroke-width="1.1049" xlink:href="#c"/>
+		<use transform="matrix(-1.1192 .54796 -.54796 -1.1192 36.433 42.226)" width="100%" height="100%" stroke-width=".80246" xlink:href="#c"/>
+		<use transform="matrix(.21303 -1.1404 1.1404 .21303 -3.2508 35.11)" width="100%" height="100%" stroke-width=".86197" xlink:href="#c"/>
+		<use transform="matrix(.39864 -.91913 .91913 .39864 10.858 18.124)" width="100%" height="100%" stroke-width=".99815" xlink:href="#c"/>
+		<use transform="matrix(-.66947 -.7865 .7865 -.66947 24.81 35.584)" width="100%" height="100%" stroke-width=".9682" xlink:href="#c"/>
+		<use transform="matrix(.090743 .20912 -.20912 .090743 23.848 11.087)" width="100%" height="100%" stroke-width="4.3868" xlink:href="#c"/>
+		<use transform="matrix(-.34472 1.0781 -1.0781 -.34472 48.612 14.194)" width="100%" height="100%" stroke-width=".88349" xlink:href="#c"/>
+		<use transform="matrix(.61507 .49323 -.49323 .61507 10.383 -12.443)" width="100%" height="100%" stroke-width="1.2684" xlink:href="#c"/>
+		<use transform="matrix(.0069013 -.010558 .010558 .0069013 32.573 12.22)" width="100%" height="100%" stroke-width="79.278" xlink:href="#c"/>
+		<use transform="matrix(-.69175 .29746 -.29746 -.69175 41.266 21.918)" width="100%" height="100%" stroke-width="1.328" xlink:href="#c"/>
+		<use transform="matrix(-1.1862 -1.1829 1.1829 -1.1862 10.312 47.842)" width="100%" height="100%" stroke-width=".59695" xlink:href="#c"/>
+		<use transform="matrix(-.39571 .17693 -.17693 -.39571 31.858 17.883)" width="100%" height="100%" stroke-width="2.307" xlink:href="#c"/>
+		<use transform="matrix(-.23465 1.1792 -1.1792 -.23465 52.269 6.408)" width="100%" height="100%" stroke-width=".8317" xlink:href="#c"/>
+		<use transform="matrix(.45865 .67609 -.67609 .45865 32.44 -4.2504)" width="100%" height="100%" stroke-width="1.224" xlink:href="#c"/>
+		<use transform="matrix(-.031326 .24591 -.24591 -.031326 66.437 7.2576)" width="100%" height="100%" stroke-width="4.034" xlink:href="#c"/>
+		<use transform="matrix(-.047215 -.42496 .42496 -.047215 41.912 13.14)" width="100%" height="100%" stroke-width="2.3387" xlink:href="#c"/>
+		<use transform="matrix(-.59327 -.69089 .69089 -.59327 42.579 31.055)" width="100%" height="100%" stroke-width="1.0981" xlink:href="#c"/>
+		<use transform="matrix(-.36054 -1.2853 1.2853 -.36054 23.867 25.855)" width="100%" height="100%" stroke-width=".74909" xlink:href="#c"/>
+		<use transform="matrix(.98633 .9382 -.9382 .98633 58.368 -27.309)" width="100%" height="100%" stroke-width=".7346" xlink:href="#c"/>
+		<use transform="matrix(.58239 .27082 -.27082 .58239 39.963 -11.242)" width="100%" height="100%" stroke-width="1.557" xlink:href="#c"/>
+		<use transform="matrix(.58483 .20938 -.20938 .58483 37.764 -11.424)" width="100%" height="100%" stroke-width="1.6098" xlink:href="#c"/>
+		<use transform="matrix(-.29583 -.14353 .14353 -.29583 38.247 12.371)" width="100%" height="100%" stroke-width="3.0413" xlink:href="#c"/>
+		<use transform="matrix(-.019049 .012787 -.012787 -.019049 37.395 4.9126)" width="100%" height="100%" stroke-width="43.587" xlink:href="#c"/>
+		<use transform="matrix(.52114 .24189 -.24189 .52114 31.559 -12.136)" width="100%" height="100%" stroke-width="1.7405" xlink:href="#c"/>
+		<use transform="matrix(.16522 .70883 -.70883 .16522 36.902 -8.0649)" width="100%" height="100%" stroke-width="1.374" xlink:href="#c"/>
+		<use transform="matrix(-1.0847 -1.5352 1.5352 -1.0847 -5.5527 45.779)" width="100%" height="100%" stroke-width=".53199" xlink:href="#c"/>
+		<use transform="matrix(.10285 -.43908 .43908 .10285 1.2359 5.0414)" width="100%" height="100%" stroke-width="2.2174" xlink:href="#c"/>
+		<use transform="matrix(-.024269 -.096166 .096166 -.024269 18.031 9.4453)" width="100%" height="100%" stroke-width="10.083" xlink:href="#c"/>
+		<use transform="matrix(.89788 -1.4583 1.4583 .89788 -27.506 18.267)" width="100%" height="100%" stroke-width=".58391" xlink:href="#c"/>
+		<use transform="matrix(-.67581 -1.6081 1.6081 -.67581 .78273 56.949)" width="100%" height="100%" stroke-width=".57329" xlink:href="#c"/>
+		<use transform="matrix(-.2125 .0096474 -.0096474 -.2125 11.413 12.678)" width="100%" height="100%" stroke-width="4.701" xlink:href="#c"/>
+		<use transform="matrix(.21413 .04418 -.04418 .21413 9.9309 8.7109)" width="100%" height="100%" stroke-width="4.5736" xlink:href="#c"/>
+		<use transform="matrix(-.38468 -1.2558 1.2558 -.38468 -18.461 38.798)" width="100%" height="100%" stroke-width=".76139" xlink:href="#c"/>
+		<use transform="matrix(.046101 .028849 -.028849 .046101 19.995 13.26)" width="100%" height="100%" stroke-width="18.388" xlink:href="#c"/>
+		<use transform="matrix(.49295 .3547 -.3547 .49295 24.062 -4.2728)" width="100%" height="100%" stroke-width="1.6466" xlink:href="#c"/>
+		<use transform="matrix(-1.1447 -.74237 .74237 -1.1447 6.9925 42.904)" width="100%" height="100%" stroke-width=".73295" xlink:href="#c"/>
+		<use transform="matrix(-.40959 .87985 -.87985 -.40959 54.521 19.683)" width="100%" height="100%" stroke-width="1.0304" xlink:href="#c"/>
+		<use transform="matrix(.020011 .41034 -.41034 .020011 40.142 13.966)" width="100%" height="100%" stroke-width="2.4341" xlink:href="#c"/>
+		<use transform="matrix(-.38077 .25945 -.25945 -.38077 38.807 26.586)" width="100%" height="100%" stroke-width="2.1703" xlink:href="#c"/>
+		<use transform="matrix(.48217 -.077205 .077205 .48217 39.232 27.316)" width="100%" height="100%" stroke-width="2.0479" xlink:href="#c"/>
+		<use transform="matrix(.80602 1.1242 -1.1242 .80602 51.945 9.708)" width="100%" height="100%" stroke-width=".72293" xlink:href="#c"/>
+		<use transform="matrix(.045182 -.15568 .15568 .045182 23.109 39.789)" width="100%" height="100%" stroke-width="6.1687" xlink:href="#c"/>
+		<use transform="matrix(.26571 .94675 -.94675 .26571 32.618 23.79)" width="100%" height="100%" stroke-width="1.017" xlink:href="#c"/>
+		<use transform="matrix(.74522 -1.8162 1.8162 .74522 -38.888 39.489)" width="100%" height="100%" stroke-width=".50939" xlink:href="#c"/>
+		<use transform="matrix(-1.4128 .10083 -.10083 -1.4128 72.538 67.513)" width="100%" height="100%" stroke-width=".70604" xlink:href="#c"/>
+		<use transform="matrix(.57641 -.53549 .53549 .57641 39.424 27.346)" width="100%" height="100%" stroke-width="1.271" xlink:href="#c"/>
+		<use transform="matrix(.14303 1.2848 -1.2848 .14303 85.357 22.046)" width="100%" height="100%" stroke-width=".77357" xlink:href="#c"/>
+		<use transform="matrix(-.10312 -.022139 .022139 -.10312 56.052 44.206)" width="100%" height="100%" stroke-width="9.481" xlink:href="#c"/>
+		<use transform="matrix(1.6741 1.0894 -1.0894 1.6741 53.629 -5.9764)" width="100%" height="100%" stroke-width=".50067" xlink:href="#c"/>
+		<use transform="matrix(-.14453 -.2744 .2744 -.14453 52.339 48.743)" width="100%" height="100%" stroke-width="3.2244" xlink:href="#c"/>
+		<use transform="matrix(-.0091928 .22089 -.22089 -.0091928 50.456 42.82)" width="100%" height="100%" stroke-width="4.5231" xlink:href="#c"/>
+		<g id="b" transform="translate(-5.6151 -10.63)">
+			<circle cx="10.871" cy="25.114" r="2.1001" fill="url(#j)" opacity=".151" style="paint-order:normal"/>
+			<path d="m11.617 25.529-0.7235-0.32197-0.7235 0.32197 0.64058-0.46558 0.08292-0.78755 0.08292 0.78755z" fill="url(#d)" style="paint-order:normal"/>
+			<path transform="matrix(.85015 -.85015 .85015 .85015 -19.707 13.01)" d="m11.617 25.529-0.7235-0.32197-0.7235 0.32197 0.64058-0.46558 0.08292-0.78755 0.08292 0.78755z" fill="url(#d)" style="paint-order:normal"/>
+		</g>
+		<use transform="matrix(.12481 .35626 -.35626 .12481 20.891 8.2656)" width="100%" height="100%" stroke-width="2.6491" xlink:href="#b"/>
+		<use transform="matrix(-.096786 .3955 -.3955 -.096786 17.292 11.983)" width="100%" height="100%" stroke-width="2.456" xlink:href="#b"/>
+		<use transform="matrix(.54559 .8669 -.8669 .54559 23.533 -6.6089)" width="100%" height="100%" stroke-width=".97628" xlink:href="#b"/>
+		<use transform="matrix(.22715 .22415 -.22415 .22715 17.439 10.3)" width="100%" height="100%" stroke-width="3.1335" xlink:href="#b"/>
+		<use transform="matrix(.31063 .15617 -.15617 .31063 12.035 4.1465)" width="100%" height="100%" stroke-width="2.8762" xlink:href="#b"/>
+		<use transform="matrix(-.34584 1.5014 -1.5014 -.34584 33.013 9.272)" width="100%" height="100%" stroke-width=".64905" xlink:href="#b"/>
+		<use transform="matrix(-.91039 -.70178 .70178 -.91039 18.766 44.197)" width="100%" height="100%" stroke-width=".86996" xlink:href="#b"/>
+		<use transform="matrix(.16711 .72463 -.72463 .16711 27.737 28.744)" width="100%" height="100%" stroke-width="1.3447" xlink:href="#b"/>
+		<use transform="matrix(.086132 .31359 -.31359 .086132 26.561 32.314)" width="100%" height="100%" stroke-width="3.075" xlink:href="#b"/>
+		<use transform="matrix(-.016152 .051375 -.051375 -.016152 30.877 35.708)" width="100%" height="100%" stroke-width="18.569" xlink:href="#b"/>
+		<use transform="matrix(-.10309 .2646 -.2646 -.10309 32.916 28.133)" width="100%" height="100%" stroke-width="3.5215" xlink:href="#b"/>
+		<use transform="matrix(.55195 -.65887 .65887 .55195 14.534 19.685)" width="100%" height="100%" stroke-width="1.1634" xlink:href="#b"/>
+		<use transform="matrix(.09071 .1081 -.1081 .09071 30.363 25.33)" width="100%" height="100%" stroke-width="7.0863" xlink:href="#b"/>
+		<use transform="matrix(.27365 1.7106 -1.7106 .27365 53.682 14.533)" width="100%" height="100%" stroke-width=".57727" xlink:href="#b"/>
+		<use transform="matrix(.72033 -.44311 .44311 .72033 28.94 28.841)" width="100%" height="100%" stroke-width="1.1824" xlink:href="#b"/>
+		<use transform="matrix(.053157 -.2026 .2026 .053157 34.012 39.615)" width="100%" height="100%" stroke-width="4.7742" xlink:href="#b"/>
+		<use transform="matrix(.71288 -1.6579 1.6579 .71288 10.634 39.947)" width="100%" height="100%" stroke-width=".55411" xlink:href="#b"/>
+		<use transform="matrix(.55955 .16102 -.16102 .55955 34.516 29.894)" width="100%" height="100%" stroke-width="1.7175" xlink:href="#b"/>
+		<use transform="matrix(.89629 -.30928 .30928 .89629 11.56 24.665)" width="100%" height="100%" stroke-width="1.0547" xlink:href="#b"/>
+		<use transform="matrix(-.81359 .063297 -.063297 -.81359 23.49 47.894)" width="100%" height="100%" stroke-width="1.2254" xlink:href="#b"/>
+		<use transform="matrix(-.27885 -.49142 .49142 -.27885 8.1013 43.932)" width="100%" height="100%" stroke-width="1.7698" xlink:href="#b"/>
+		<use transform="matrix(.93986 1.0307 -1.0307 .93986 49.42 30.973)" width="100%" height="100%" stroke-width=".71692" xlink:href="#b"/>
+		<use transform="matrix(.051179 .20253 -.20253 .051179 51.956 43.94)" width="100%" height="100%" stroke-width="4.7871" xlink:href="#b"/>
+		<use transform="matrix(.54393 -.0057535 .0057535 .54393 45.458 33.58)" width="100%" height="100%" stroke-width="1.8384" xlink:href="#b"/>
+		<use transform="matrix(1.6684 .16782 -.16782 1.6684 44.655 20.696)" width="100%" height="100%" stroke-width=".59637" xlink:href="#b"/>
+		<use transform="matrix(.13344 -.46696 .46696 .13344 53.906 49.863)" width="100%" height="100%" stroke-width="2.0591" xlink:href="#b"/>
+		<use transform="matrix(-.080812 -.050956 .050956 -.080812 31.275 37.457)" width="100%" height="100%" stroke-width="10.467" xlink:href="#b"/>
+		<use transform="matrix(-.47911 1.01 -1.01 -.47911 61.038 43.629)" width="100%" height="100%" stroke-width=".89453" xlink:href="#b"/>
+		<use transform="matrix(-.56455 -1.0857 1.0857 -.56455 35.383 55.875)" width="100%" height="100%" stroke-width=".81719" xlink:href="#b"/>
+		<use transform="matrix(.042071 -.060327 .060327 .042071 51.285 39.813)" width="100%" height="100%" stroke-width="13.597" xlink:href="#b"/>
+		<use transform="matrix(-.44129 -.27876 .27876 -.44129 53.637 36.812)" width="100%" height="100%" stroke-width="1.9158" xlink:href="#b"/>
+		<use transform="matrix(.47548 -.60807 .60807 .47548 43.795 22.029)" width="100%" height="100%" stroke-width="1.2955" xlink:href="#b"/>
+		<use transform="matrix(-.21317 -.40089 .40089 -.21317 50.412 28.056)" width="100%" height="100%" stroke-width="2.2024" xlink:href="#b"/>
+		<use transform="matrix(-.23122 -.20031 .20031 -.23122 54.629 23)" width="100%" height="100%" stroke-width="3.2689" xlink:href="#b"/>
+		<use transform="matrix(-.12837 .031458 -.031458 -.12837 61.061 15.364)" width="100%" height="100%" stroke-width="7.5659" xlink:href="#b"/>
+		<use transform="matrix(-.61159 .077397 -.077397 -.61159 63.306 19.85)" width="100%" height="100%" stroke-width="1.6221" xlink:href="#b"/>
+		<use transform="matrix(-.43986 -1.1048 1.1048 -.43986 46.87 20.935)" width="100%" height="100%" stroke-width=".84096" xlink:href="#b"/>
+		<use transform="matrix(.036149 1.0077 -1.0077 .036149 69.325 -.05421)" width="100%" height="100%" stroke-width=".99168" xlink:href="#b"/>
+		<use transform="matrix(.34886 -.18946 .18946 .34886 55.81 2.0476)" width="100%" height="100%" stroke-width="2.519" xlink:href="#b"/>
+		<use transform="matrix(-.21858 .014102 -.014102 -.21858 59.472 6.8407)" width="100%" height="100%" stroke-width="4.5656" xlink:href="#b"/>
+		<use transform="matrix(-.13845 -.20311 .20311 -.13845 53.952 6.9758)" width="100%" height="100%" stroke-width="4.0681" xlink:href="#b"/>
+		<use transform="matrix(.25849 -.0039391 .0039391 .25849 50.922 2.3932)" width="100%" height="100%" stroke-width="3.8682" xlink:href="#b"/>
+		<use transform="matrix(.33488 -.77716 .77716 .33488 48.881 44.958)" width="100%" height="100%" stroke-width="1.1817" xlink:href="#b"/>
+		<use transform="matrix(.62094 .38679 -.38679 .62094 62.899 20.707)" width="100%" height="100%" stroke-width="1.367" xlink:href="#b"/>
+		<use transform="matrix(1.5842 -.28213 .28213 1.5842 45.996 17.429)" width="100%" height="100%" stroke-width=".62144" xlink:href="#b"/>
+		<use transform="matrix(-1.3364 -.76867 .76867 -1.3364 54.774 59.853)" width="100%" height="100%" stroke-width=".64864" xlink:href="#b"/>
+		<use transform="matrix(.68003 -.64621 .64621 .68003 47.919 28.961)" width="100%" height="100%" stroke-width="1.066" xlink:href="#b"/>
+		<use transform="matrix(.08157 .010217 -.010217 .08157 60.729 25.874)" width="100%" height="100%" stroke-width="12.164" xlink:href="#b"/>
+		<use transform="matrix(.022972 .19462 -.19462 .022972 63.129 26.41)" width="100%" height="100%" stroke-width="5.1027" xlink:href="#b"/>
+		<use transform="matrix(-.091696 1.1299 -1.1299 -.091696 78.067 24.161)" width="100%" height="100%" stroke-width=".88214" xlink:href="#b"/>
+		<use transform="matrix(.075722 -.37283 .37283 .075722 49.374 34.26)" width="100%" height="100%" stroke-width="2.6285" xlink:href="#b"/>
+		<use transform="matrix(.12913 .10634 -.10634 .12913 56.038 31.988)" width="100%" height="100%" stroke-width="5.9778" xlink:href="#b"/>
+		<use transform="matrix(-.27447 -.30615 .30615 -.27447 53.194 41.897)" width="100%" height="100%" stroke-width="2.4321" xlink:href="#b"/>
+		<use transform="matrix(.22893 1.3614 -1.3614 .22893 75.241 32.656)" width="100%" height="100%" stroke-width=".72437" xlink:href="#b"/>
+		<use transform="matrix(-.46945 -.42483 .42483 -.46945 55.186 54.143)" width="100%" height="100%" stroke-width="1.5794" xlink:href="#b"/>
+		<use transform="matrix(1.5262 -.8579 .8579 1.5262 35.928 25.377)" width="100%" height="100%" stroke-width=".57118" xlink:href="#b"/>
+		<use transform="matrix(.66667 -1.7429 1.7429 .66667 26.275 46.209)" width="100%" height="100%" stroke-width=".5359" xlink:href="#b"/>
+		<use transform="matrix(.63922 -.44865 .44865 .63922 48.186 41.261)" width="100%" height="100%" stroke-width="1.2805" xlink:href="#b"/>
+		<use transform="matrix(-.08629 .16517 -.16517 -.08629 60.003 47.088)" width="100%" height="100%" stroke-width="5.3662" xlink:href="#b"/>
+		<use transform="matrix(.11502 .29084 -.29084 .11502 59.987 44.989)" width="100%" height="100%" stroke-width="3.1974" xlink:href="#b"/>
+		<use transform="matrix(.23004 -.19164 .19164 .23004 50.891 43.899)" width="100%" height="100%" stroke-width="3.34" xlink:href="#b"/>
+		<use transform="matrix(-.12184 -.30546 .30546 -.12184 46.787 39.646)" width="100%" height="100%" stroke-width="3.0408" xlink:href="#b"/>
+		<use transform="matrix(-.11797 -.10807 .10807 -.11797 49.569 39.237)" width="100%" height="100%" stroke-width="6.2506" xlink:href="#b"/>
+		<use transform="matrix(-1.095 .63523 -.63523 -1.095 65.436 47.048)" width="100%" height="100%" stroke-width=".78996" xlink:href="#b"/>
+		<use transform="matrix(.054235 1.1579 -1.1579 .054235 65.689 25.885)" width="100%" height="100%" stroke-width=".86272" xlink:href="#b"/>
+		<use transform="matrix(.18456 -.4661 .4661 .18456 38.091 31.362)" width="100%" height="100%" stroke-width="1.9948" xlink:href="#b"/>
+		<use transform="matrix(-.24601 .35072 -.35072 -.24601 52.588 33.024)" width="100%" height="100%" stroke-width="2.3343" xlink:href="#b"/>
+		<use transform="matrix(.43573 1.225 -1.225 .43573 59.629 19.373)" width="100%" height="100%" stroke-width=".76912" xlink:href="#b"/>
+		<use transform="matrix(-1.1825 -.16324 .16324 -1.1825 47.012 48.73)" width="100%" height="100%" stroke-width=".83772" xlink:href="#b"/>
+		<use transform="matrix(-.44832 -.67935 .67935 -.44832 30.824 40.616)" width="100%" height="100%" stroke-width="1.2286" xlink:href="#b"/>
+		<use transform="matrix(.095835 -.06482 .06482 .095835 24.382 34.771)" width="100%" height="100%" stroke-width="8.6432" xlink:href="#b"/>
+		<use transform="matrix(-.0023546 .2555 -.2555 -.0023546 25.572 37.734)" width="100%" height="100%" stroke-width="3.9137" xlink:href="#b"/>
+		<use transform="matrix(-.14614 -.8077 .8077 -.14614 8.7283 43.832)" width="100%" height="100%" stroke-width="1.2183" xlink:href="#b"/>
+		<use transform="matrix(1.3625 -.51322 .51322 1.3625 3.9677 22.285)" width="100%" height="100%" stroke-width=".68684" xlink:href="#b"/>
+		<use transform="matrix(-.46591 -1.362 1.362 -.46591 -.57761 53.28)" width="100%" height="100%" stroke-width=".69469" xlink:href="#b"/>
+		<use transform="matrix(.12825 -1.9724 1.9724 .12825 -14.752 47.562)" width="100%" height="100%" stroke-width=".50594" xlink:href="#b"/>
+		<use transform="matrix(-.15013 .26274 -.26274 -.15013 35.875 22.845)" width="100%" height="100%" stroke-width="3.3046" xlink:href="#b"/>
+		<use transform="matrix(.076468 -.022961 .022961 .076468 35.87 38.287)" width="100%" height="100%" stroke-width="12.525" xlink:href="#b"/>
+		<use transform="matrix(.71742 .15891 -.15891 .71742 40.429 11.388)" width="100%" height="100%" stroke-width="1.3609" xlink:href="#b"/>
+		<use transform="matrix(-.3292 -.79276 .79276 -.3292 35.445 28.786)" width="100%" height="100%" stroke-width="1.165" xlink:href="#b"/>
+		<use transform="matrix(.42495 .2036 -.2036 .42495 40.652 9.0372)" width="100%" height="100%" stroke-width="2.1222" xlink:href="#b"/>
+		<use transform="matrix(-.32903 -1.8916 1.8916 -.32903 11.005 30.806)" width="100%" height="100%" stroke-width=".52083" xlink:href="#b"/>
+		<use transform="matrix(.18319 1.1143 -1.1143 .18319 51.227 3.5753)" width="100%" height="100%" stroke-width=".88555" xlink:href="#b"/>
+		<use transform="matrix(.78916 .43541 -.43541 .78916 37.146 3.179)" width="100%" height="100%" stroke-width="1.1095" xlink:href="#b"/>
+		<use transform="matrix(-1.7797 -.87029 .87029 -1.7797 30.565 46.017)" width="100%" height="100%" stroke-width=".50478" xlink:href="#b"/>
+		<use transform="matrix(-1.2698 -.94723 .94723 -1.2698 16.426 37.408)" width="100%" height="100%" stroke-width=".63124" xlink:href="#b"/>
+		<use transform="matrix(.17422 -.23986 .23986 .17422 16.882 8.6717)" width="100%" height="100%" stroke-width="3.3732" xlink:href="#b"/>
+		<use transform="matrix(-.4577 -.39328 .39328 -.4577 17.316 22.711)" width="100%" height="100%" stroke-width="1.6571" xlink:href="#b"/>
+		<use transform="matrix(.04294 .14178 -.14178 .04294 20.218 12.428)" width="100%" height="100%" stroke-width="6.7505" xlink:href="#b"/>
+		<use transform="matrix(1.0146 .39873 -.39873 1.0146 5.0625 7.7757)" width="100%" height="100%" stroke-width=".91731" xlink:href="#b"/>
+		<use transform="matrix(-.052326 -.77511 .77511 -.052326 -8.058 36.495)" width="100%" height="100%" stroke-width="1.2872" xlink:href="#b"/>
+		<use transform="matrix(.92227 -.41779 .41779 .92227 -3.5443 23.496)" width="100%" height="100%" stroke-width=".98767" xlink:href="#b"/>
+		<use transform="matrix(-.2855 -.67844 .67844 -.2855 4.3789 42.176)" width="100%" height="100%" stroke-width="1.3586" xlink:href="#b"/>
+		<use transform="matrix(.033301 .29081 -.29081 .033301 22.534 30.897)" width="100%" height="100%" stroke-width="3.4163" xlink:href="#b"/>
+		<use transform="matrix(.13586 -.54533 .54533 .13586 10.945 38.836)" width="100%" height="100%" stroke-width="1.7794" xlink:href="#b"/>
+		<use transform="matrix(-.58433 -.89667 .89667 -.58433 12.81 56.102)" width="100%" height="100%" stroke-width=".93435" xlink:href="#b"/>
+		<use transform="matrix(-.34948 1.0454 -1.0454 -.34948 58.044 45.825)" width="100%" height="100%" stroke-width=".90725" xlink:href="#b"/>
+		<use transform="matrix(-.22694 -.054573 .054573 -.22694 51.684 40.814)" width="100%" height="100%" stroke-width="4.2843" xlink:href="#b"/>
+		<use transform="matrix(-1.0292 .84343 -.84343 -1.0292 64.01 45.657)" width="100%" height="100%" stroke-width=".75152" xlink:href="#b"/>
+		<use transform="matrix(-.29089 -1.2943 1.2943 -.29089 26.882 43.362)" width="100%" height="100%" stroke-width=".75382" xlink:href="#b"/>
+		<use transform="matrix(.42967 -.5148 .5148 .42967 30.417 26.597)" width="100%" height="100%" stroke-width="1.4913" xlink:href="#b"/>
+		<use transform="matrix(-1.6127 .93174 -.93174 -1.6127 66.781 49.76)" width="100%" height="100%" stroke-width=".53691" xlink:href="#b"/>
+		<use transform="matrix(-.061287 .071908 -.071908 -.061287 27.179 26.499)" width="100%" height="100%" stroke-width="10.584" xlink:href="#b"/>
+		<use transform="matrix(.12598 -.017516 .017516 .12598 24.999 22.938)" width="100%" height="100%" stroke-width="7.862" xlink:href="#b"/>
+		<use transform="matrix(-.2864 -.019423 .019423 -.2864 27.103 23.383)" width="100%" height="100%" stroke-width="3.4836" xlink:href="#b"/>
+		<use transform="matrix(-.59706 -.56365 .56365 -.59706 19.521 24.798)" width="100%" height="100%" stroke-width="1.2179" xlink:href="#b"/>
+		<use transform="matrix(1.916 -.44691 .44691 1.916 17.501 -17.425)" width="100%" height="100%" stroke-width=".50829" xlink:href="#b"/>
+		<use transform="matrix(.74066 .10677 -.10677 .74066 30.242 -6.3969)" width="100%" height="100%" stroke-width="1.3363" xlink:href="#b"/>
+		<use transform="matrix(-.1045 -.2304 .2304 -.1045 36.456 10.768)" width="100%" height="100%" stroke-width="3.9527" xlink:href="#b"/>
+		<use transform="matrix(-.095044 .27142 -.27142 -.095044 47.526 11.595)" width="100%" height="100%" stroke-width="3.4773" xlink:href="#b"/>
+		<use transform="matrix(-.17602 .13608 -.13608 -.17602 45.094 9.2351)" width="100%" height="100%" stroke-width="4.4946" xlink:href="#b"/>
+		<use transform="matrix(.059337 .013504 -.013504 .059337 43.323 5.4349)" width="100%" height="100%" stroke-width="16.433" xlink:href="#b"/>
+		<use transform="matrix(-.12655 -.076339 .076339 -.12655 39.365 8.1458)" width="100%" height="100%" stroke-width="6.7663" xlink:href="#b"/>
+		<use transform="matrix(-.21576 .19097 -.19097 -.21576 43.313 10.696)" width="100%" height="100%" stroke-width="3.4706" xlink:href="#b"/>
+		<use transform="matrix(.0066138 .16638 -.16638 .0066138 38.155 2.1347)" width="100%" height="100%" stroke-width="6.0057" xlink:href="#b"/>
+		<use transform="matrix(.17882 .20594 -.20594 .17882 28.236 2.4051)" width="100%" height="100%" stroke-width="3.6665" xlink:href="#b"/>
+		<use transform="matrix(1.0172 1.0708 -1.0708 1.0172 36.799 -14.865)" width="100%" height="100%" stroke-width=".67707" xlink:href="#b"/>
+		<use transform="matrix(.089345 .39005 -.39005 .089345 29.164 4.9242)" width="100%" height="100%" stroke-width="2.499" xlink:href="#b"/>
+		<use transform="matrix(.95105 -.77275 .77275 .95105 5.5886 -5.2507)" width="100%" height="100%" stroke-width=".81605" xlink:href="#b"/>
+		<use transform="matrix(.040027 .23963 -.23963 .040027 22.762 7.5414)" width="100%" height="100%" stroke-width="4.1161" xlink:href="#b"/>
+		<use transform="matrix(.47398 .48464 -.48464 .47398 21.509 -.067802)" width="100%" height="100%" stroke-width="1.4752" xlink:href="#b"/>
+		<use transform="matrix(-.32165 1.1069 -1.1069 -.32165 32.694 5.2337)" width="100%" height="100%" stroke-width=".86753" xlink:href="#b"/>
+		<use transform="matrix(.024256 .56713 -.56713 .024256 26.274 1.8409)" width="100%" height="100%" stroke-width="1.7616" xlink:href="#b"/>
+		<use transform="matrix(-1.6545 -.2069 .2069 -1.6545 9.5267 29.662)" width="100%" height="100%" stroke-width=".59973" xlink:href="#b"/>
+		<use transform="matrix(.041864 .15724 -.15724 .041864 10.151 .78242)" width="100%" height="100%" stroke-width="6.1455" xlink:href="#b"/>
+		<use transform="matrix(.43858 -1.3268 1.3268 .43858 8.2878 19.339)" width="100%" height="100%" stroke-width=".71562" xlink:href="#b"/>
+		<use transform="matrix(-.31067 .87166 -.87166 -.31067 50.604 19.546)" width="100%" height="100%" stroke-width="1.0807" xlink:href="#b"/>
+		<use transform="matrix(.76831 1.7343 -1.7343 .76831 69.5 -6.1016)" width="100%" height="100%" stroke-width=".52718" xlink:href="#b"/>
+		<use transform="matrix(-1.8162 .46543 -.46543 -1.8162 64.166 38.588)" width="100%" height="100%" stroke-width=".53336" xlink:href="#b"/>
+		<use transform="matrix(.015662 .15569 -.15569 .015662 47.274 14.801)" width="100%" height="100%" stroke-width="6.3906" xlink:href="#b"/>
+		<use transform="matrix(.10864 .025758 -.025758 .10864 44.741 12.678)" width="100%" height="100%" stroke-width="8.9566" xlink:href="#b"/>
+		<use transform="matrix(.67742 .40173 -.40173 .67742 47.884 -.097545)" width="100%" height="100%" stroke-width="1.2697" xlink:href="#b"/>
+		<use transform="matrix(-1.0269 -.18516 .18516 -1.0269 64.396 29.511)" width="100%" height="100%" stroke-width=".95836" xlink:href="#b"/>
+		<use transform="matrix(-.097708 .2571 -.2571 -.097708 62.971 5.7364)" width="100%" height="100%" stroke-width="3.6358" xlink:href="#b"/>
+		<use transform="matrix(.0028311 .00032314 -.00032314 .0028311 58.077 5.0661)" width="100%" height="100%" stroke-width="350.94" xlink:href="#b"/>
+		<use transform="matrix(1.0329 .36113 -.36113 1.0329 48.495 3.5228)" width="100%" height="100%" stroke-width=".91392" xlink:href="#b"/>
+		<use transform="matrix(-1.2713 -.581 .581 -1.2713 49.971 44.268)" width="100%" height="100%" stroke-width=".71542" xlink:href="#b"/>
+		<use transform="matrix(.08055 .1479 -.1479 .08055 52.423 17.612)" width="100%" height="100%" stroke-width="5.9378" xlink:href="#b"/>
+		<use transform="matrix(.11247 -.99161 .99161 .11247 32.646 28.463)" width="100%" height="100%" stroke-width="1.002" xlink:href="#b"/>
+		<use transform="matrix(-1.7294 -.6713 .6713 -1.7294 38.528 51.662)" width="100%" height="100%" stroke-width=".53904" xlink:href="#b"/>
+		<use transform="matrix(.58458 1.811 -1.811 .58458 63.064 1.8653)" width="100%" height="100%" stroke-width=".52547" xlink:href="#b"/>
+		<use transform="matrix(-.89966 1.264 -1.264 -.89966 61.203 30.951)" width="100%" height="100%" stroke-width=".64456" xlink:href="#b"/>
+		<use transform="matrix(-.007079 .31028 -.31028 -.007079 22.839 17.721)" width="100%" height="100%" stroke-width="3.222" xlink:href="#b"/>
+		<use transform="matrix(-.020058 -.031776 .031776 -.020058 6.4031 18.503)" width="100%" height="100%" stroke-width="26.612" xlink:href="#b"/>
+		<use transform="matrix(.20097 .10661 -.10661 .20097 2.0621 13.889)" width="100%" height="100%" stroke-width="4.3957" xlink:href="#b"/>
+		<use transform="matrix(-.56497 -.46436 .46436 -.56497 -1.2017 32.592)" width="100%" height="100%" stroke-width="1.3674" xlink:href="#b"/>
+		<use transform="matrix(-.15936 -.65113 .65113 -.15936 -5.7303 24.077)" width="100%" height="100%" stroke-width="1.4918" xlink:href="#b"/>
+		<use transform="matrix(-1.256 -1.0756 1.0756 -1.256 -.23653 47.993)" width="100%" height="100%" stroke-width=".60473" xlink:href="#b"/>
+		<use transform="matrix(-.34698 .82149 -.82149 -.34698 21.841 28.201)" width="100%" height="100%" stroke-width="1.1214" xlink:href="#b"/>
+		<use transform="matrix(.039348 -1.0032 1.0032 .039348 -1.1143 28.505)" width="100%" height="100%" stroke-width=".99605" xlink:href="#b"/>
+		<use transform="matrix(1.1668 -1.5712 1.5712 1.1668 -12.723 18.935)" width="100%" height="100%" stroke-width=".51097" xlink:href="#b"/>
+		<use transform="matrix(.23646 .064478 -.064478 .23646 17.812 21.575)" width="100%" height="100%" stroke-width="4.0801" xlink:href="#b"/>
+		<use transform="matrix(.0016414 .81997 -.81997 .0016414 29.072 17.85)" width="100%" height="100%" stroke-width="1.2196" xlink:href="#b"/>
+		<use transform="matrix(.25875 -.75481 .75481 .25875 15.526 18.999)" width="100%" height="100%" stroke-width="1.2532" xlink:href="#b"/>
+		<use transform="matrix(-.37552 -.0055026 .0055026 -.37552 39.276 20.371)" width="100%" height="100%" stroke-width="2.6627" xlink:href="#b"/>
+		<use transform="matrix(.52015 .1722 -.1722 .52015 36.328 5.0718)" width="100%" height="100%" stroke-width="1.8251" xlink:href="#b"/>
+		<use transform="matrix(.011972 1.2157 -1.2157 .011972 56.911 6.0958)" width="100%" height="100%" stroke-width=".82255" xlink:href="#b"/>
+		<use transform="matrix(.099013 -.49126 .49126 .099013 32.308 11.628)" width="100%" height="100%" stroke-width="1.9955" xlink:href="#b"/>
+		<use transform="matrix(-.19188 -.50191 .50191 -.19188 35.94 15.383)" width="100%" height="100%" stroke-width="1.861" xlink:href="#b"/>
+		<use transform="matrix(-.29782 -1.3028 1.3028 -.29782 26.01 22.989)" width="100%" height="100%" stroke-width=".74827" xlink:href="#b"/>
+		<use transform="matrix(1.0143 -.91745 .91745 1.0143 26.746 6.384)" width="100%" height="100%" stroke-width=".73115" xlink:href="#b"/>
+		<use transform="matrix(1.1441 .064497 -.064497 1.1441 39.427 -6.4638)" width="100%" height="100%" stroke-width=".8727" xlink:href="#b"/>
+		<use transform="matrix(-.90748 1.1726 -1.1726 -.90748 70.495 20.898)" width="100%" height="100%" stroke-width=".67445" xlink:href="#b"/>
+		<use transform="matrix(.36706 .23288 -.23288 .36706 54.656 4.9315)" width="100%" height="100%" stroke-width="2.3004" xlink:href="#b"/>
+		<use transform="matrix(.026165 -.0048846 .0048846 .026165 55.514 10.324)" width="100%" height="100%" stroke-width="37.57" xlink:href="#b"/>
+		<use transform="matrix(.095088 .89806 -.89806 .095088 67.031 4.1312)" width="100%" height="100%" stroke-width="1.1073" xlink:href="#b"/>
+		<use transform="matrix(.76824 -.21601 .21601 .76824 43.999 3.2056)" width="100%" height="100%" stroke-width="1.2531" xlink:href="#b"/>
+		<use transform="matrix(.25968 .46787 -.46787 .25968 55.287 9.0665)" width="100%" height="100%" stroke-width="1.8688" xlink:href="#b"/>
+		<use transform="matrix(.35054 -.32556 .32556 .35054 40.988 11.537)" width="100%" height="100%" stroke-width="2.0903" xlink:href="#b"/>
+		<use transform="matrix(-1.554 -.20585 .20585 -1.554 53.941 38.844)" width="100%" height="100%" stroke-width=".63794" xlink:href="#b"/>
+		<use transform="matrix(-.41044 -.4331 .4331 -.41044 37.401 22.623)" width="100%" height="100%" stroke-width="1.6759" xlink:href="#b"/>
+		<use transform="matrix(-1.1837 .80211 -.80211 -1.1837 60.102 29.837)" width="100%" height="100%" stroke-width=".69936" xlink:href="#b"/>
+		<use transform="matrix(1.2758 .57468 -.57468 1.2758 38.23 -2.3042)" width="100%" height="100%" stroke-width=".71464" xlink:href="#b"/>
+		<use transform="matrix(-.13247 1.4759 -1.4759 -.13247 56.47 14.173)" width="100%" height="100%" stroke-width=".67483" xlink:href="#b"/>
+		<use transform="matrix(.00051219 -.00091752 .00091752 .00051219 17.23 20.661)" width="100%" height="100%" stroke-width="951.66" xlink:href="#b"/>
+		<use transform="matrix(-.19662 -.15885 .15885 -.19662 9.3439 24.429)" width="100%" height="100%" stroke-width="3.9561" xlink:href="#b"/>
+		<use transform="matrix(.47086 .42661 -.42661 .47086 15.13 11.89)" width="100%" height="100%" stroke-width="1.5739" xlink:href="#b"/>
+		<use transform="matrix(.48403 -.3143 .3143 .48403 -2.4333 16.815)" width="100%" height="100%" stroke-width="1.7327" xlink:href="#b"/>
+		<use transform="matrix(-.21845 -.61843 .61843 -.21845 -4.7479 32.496)" width="100%" height="100%" stroke-width="1.5247" xlink:href="#b"/>
+		<use transform="matrix(.30693 .19569 -.19569 .30693 21.718 12.641)" width="100%" height="100%" stroke-width="2.7472" xlink:href="#b"/>
+		<use transform="matrix(1.1587 .68383 -.68383 1.1587 23.2 -2.6027)" width="100%" height="100%" stroke-width=".74326" xlink:href="#b"/>
+		<use transform="matrix(.10887 .048228 -.048228 .10887 35.119 14.767)" width="100%" height="100%" stroke-width="8.3983" xlink:href="#b"/>
+		<use transform="matrix(-.44817 -.33329 .33329 -.44817 33.681 23.241)" width="100%" height="100%" stroke-width="1.7905" xlink:href="#b"/>
+		<use transform="matrix(.59896 1.0629 -1.0629 .59896 43.329 -2.2428)" width="100%" height="100%" stroke-width=".81967" xlink:href="#b"/>
+		<use transform="matrix(-.5828 .55212 -.55212 -.5828 65.029 25.168)" width="100%" height="100%" stroke-width="1.2456" xlink:href="#b"/>
+		<use transform="matrix(-.50253 .56599 -.56599 -.50253 48.848 21.466)" width="100%" height="100%" stroke-width="1.3212" xlink:href="#b"/>
+		<use transform="matrix(-.18308 .20054 -.20054 -.18308 37.241 18.193)" width="100%" height="100%" stroke-width="3.6827" xlink:href="#b"/>
+		<use transform="matrix(-.24869 .84291 -.84291 -.24869 48.532 19.454)" width="100%" height="100%" stroke-width="1.1379" xlink:href="#b"/>
+		<use transform="matrix(-1.7232 -1.3189 1.3189 -1.7232 10.274 52.998)" width="100%" height="100%" stroke-width=".46085" xlink:href="#b"/>
+		<use transform="matrix(.0072067 -.064241 .064241 .0072067 15.574 23.731)" width="100%" height="100%" stroke-width="15.469" xlink:href="#b"/>
+		<use transform="matrix(-.012618 -.018254 .018254 -.012618 5.5845 25.223)" width="100%" height="100%" stroke-width="45.063" xlink:href="#b"/>
+		<use transform="matrix(.356 -.030272 .030272 .356 2.1899 17.993)" width="100%" height="100%" stroke-width="2.7989" xlink:href="#b"/>
+		<use transform="matrix(-.14067 .82309 -.82309 -.14067 25.382 7.833)" width="100%" height="100%" stroke-width="1.1976" xlink:href="#b"/>
+		<use transform="matrix(-.29828 -.59403 .59403 -.29828 2.7158 27.514)" width="100%" height="100%" stroke-width="1.5044" xlink:href="#b"/>
+		<use transform="matrix(-.51967 .053701 -.053701 -.51967 22.483 23.889)" width="100%" height="100%" stroke-width="1.9141" xlink:href="#b"/>
+		<use transform="matrix(-.55735 .24924 -.24924 -.55735 28.314 26.056)" width="100%" height="100%" stroke-width="1.6379" xlink:href="#b"/>
+		<use transform="matrix(-.28143 -.25366 .25366 -.28143 16.597 21.152)" width="100%" height="100%" stroke-width="2.6394" xlink:href="#b"/>
+		<use transform="matrix(.1322 -.015342 .015342 .1322 25.97 15.282)" width="100%" height="100%" stroke-width="7.514" xlink:href="#b"/>
+		<use transform="matrix(.12444 -.030534 .030534 .12444 28.992 18.193)" width="100%" height="100%" stroke-width="7.8043" xlink:href="#b"/>
+		<use transform="matrix(-.093472 .1056 -.1056 -.093472 34.026 14.722)" width="100%" height="100%" stroke-width="7.0909" xlink:href="#b"/>
+		<use transform="matrix(-.48415 -.98324 .98324 -.48415 25.609 29.641)" width="100%" height="100%" stroke-width=".91243" xlink:href="#b"/>
+		<use transform="matrix(.71202 .45243 -.45243 .71202 43.271 4.0993)" width="100%" height="100%" stroke-width="1.1854" xlink:href="#b"/>
+		<use transform="matrix(.021162 -.025494 .025494 .021162 41.372 17.245)" width="100%" height="100%" stroke-width="30.182" xlink:href="#b"/>
+		<use transform="matrix(-.56725 -.37297 .37297 -.56725 42.379 23.159)" width="100%" height="100%" stroke-width="1.473" xlink:href="#b"/>
+		<use transform="matrix(-1.4044 .76254 -.76254 -1.4044 66.019 30.24)" width="100%" height="100%" stroke-width=".62576" xlink:href="#b"/>
+		<use transform="matrix(.29214 .2404 -.2404 .29214 49.12 8.7891)" width="100%" height="100%" stroke-width="2.6431" xlink:href="#b"/>
+		<use transform="matrix(-1.413 .22178 -.22178 -1.413 61.773 35.103)" width="100%" height="100%" stroke-width=".69915" xlink:href="#b"/>
+		<use transform="matrix(-.13563 -.012884 .012884 -.13563 56.109 19.189)" width="100%" height="100%" stroke-width="7.3398" xlink:href="#b"/>
+		<use transform="matrix(-.41272 -1.8873 1.8873 -.41272 23.214 31.683)" width="100%" height="100%" stroke-width=".51762" xlink:href="#b"/>
+		<use transform="matrix(-1.234 -1.2527 1.2527 -1.234 38.793 37.711)" width="100%" height="100%" stroke-width=".56867" xlink:href="#b"/>
+		<use transform="matrix(.41217 -.51404 .51404 .41217 36.785 13.907)" width="100%" height="100%" stroke-width="1.5177" xlink:href="#b"/>
+		<use transform="matrix(-.13192 .72415 -.72415 -.13192 63.218 8.3256)" width="100%" height="100%" stroke-width="1.3586" xlink:href="#b"/>
+		<use transform="matrix(1.3451 1.0585 -1.0585 1.3451 59.477 -9.0595)" width="100%" height="100%" stroke-width=".58425" xlink:href="#b"/>
+		<use transform="matrix(.14991 .19126 -.19126 .14991 55.111 8.9366)" width="100%" height="100%" stroke-width="4.1151" xlink:href="#b"/>
+		<use transform="matrix(1.4046 -.32713 .32713 1.4046 34.919 -7.5037)" width="100%" height="100%" stroke-width=".69339" xlink:href="#b"/>
+		<use transform="matrix(-.026521 -1.087 1.087 -.026521 26.985 24.555)" width="100%" height="100%" stroke-width=".91968" xlink:href="#b"/>
+		<use transform="matrix(-.54261 .20663 -.20663 -.54261 45.598 20.207)" width="100%" height="100%" stroke-width="1.7223" xlink:href="#b"/>
+		<use transform="matrix(-.3619 .19445 -.19445 -.3619 29.518 21.885)" width="100%" height="100%" stroke-width="2.4341" xlink:href="#b"/>
+		<use transform="matrix(-.27597 .23851 -.23851 -.27597 30.438 24.352)" width="100%" height="100%" stroke-width="2.7416" xlink:href="#b"/>
+		<use transform="matrix(.030203 -.037142 .037142 .030203 15.697 20.129)" width="100%" height="100%" stroke-width="20.889" xlink:href="#b"/>
+		<use transform="matrix(-.10035 .016391 -.016391 -.10035 15.918 21.799)" width="100%" height="100%" stroke-width="9.8344" xlink:href="#b"/>
+		<use transform="matrix(.18074 -.18877 .18877 .18074 8.451 19.08)" width="100%" height="100%" stroke-width="3.8264" xlink:href="#b"/>
+		<use transform="matrix(-.20785 -.52774 .52774 -.20785 -3.0372 32.147)" width="100%" height="100%" stroke-width="1.7631" xlink:href="#b"/>
+		<use transform="matrix(-.022201 -.025015 .025015 -.022201 1.7244 23.601)" width="100%" height="100%" stroke-width="29.899" xlink:href="#b"/>
+		<use transform="matrix(-.20527 .078413 -.078413 -.20527 6.9725 27.193)" width="100%" height="100%" stroke-width="4.5509" xlink:href="#b"/>
+		<use transform="matrix(-.013087 -.070742 .070742 -.013087 5.8935 22.064)" width="100%" height="100%" stroke-width="13.9" xlink:href="#b"/>
+		<use transform="matrix(.013205 -.12239 .12239 .013205 .22771 24.202)" width="100%" height="100%" stroke-width="8.1238" xlink:href="#b"/>
+		<use transform="matrix(.16248 .25791 -.25791 .16248 4.8993 19.282)" width="100%" height="100%" stroke-width="3.2806" xlink:href="#b"/>
+		<use transform="matrix(.035118 .021338 -.021338 .035118 16.94 20.437)" width="100%" height="100%" stroke-width="24.335" xlink:href="#b"/>
+		<use transform="matrix(.23508 .12014 -.12014 .23508 35.932 8.8628)" width="100%" height="100%" stroke-width="3.7879" xlink:href="#b"/>
+		<use transform="matrix(1.7582 .55625 -.55625 1.7582 35.805 -12.334)" width="100%" height="100%" stroke-width=".54226" xlink:href="#b"/>
+		<use transform="matrix(.26955 -.064002 .064002 .26955 39.086 7.4903)" width="100%" height="100%" stroke-width="3.6095" xlink:href="#b"/>
+		<use transform="matrix(-.19653 -.028618 .028618 -.19653 58.14 19.712)" width="100%" height="100%" stroke-width="5.0353" xlink:href="#b"/>
+		<use transform="matrix(.1951 .44911 -.44911 .1951 60.062 10.861)" width="100%" height="100%" stroke-width="2.0422" xlink:href="#b"/>
+		<use transform="matrix(.41301 -.41227 .41227 .41301 43.381 12.655)" width="100%" height="100%" stroke-width="1.7136" xlink:href="#b"/>
+		<use transform="matrix(-.028382 -.094558 .094558 -.028382 49.363 14.109)" width="100%" height="100%" stroke-width="10.129" xlink:href="#b"/>
+		<use transform="matrix(.054373 .12659 -.12659 .054373 55.038 11.649)" width="100%" height="100%" stroke-width="7.2581" xlink:href="#b"/>
+		<use transform="matrix(1.2856 -.89353 .89353 1.2856 28.682 -.75947)" width="100%" height="100%" stroke-width=".63873" xlink:href="#b"/>
+		<use transform="matrix(-.11213 -.13481 .13481 -.11213 43.294 15.289)" width="100%" height="100%" stroke-width="5.703" xlink:href="#b"/>
+		<use transform="matrix(.95665 -.91513 .91513 .95665 30.567 4.2353)" width="100%" height="100%" stroke-width=".75536" xlink:href="#b"/>
+		<use transform="matrix(.74397 .60174 -.60174 .74397 53.476 5.8856)" width="100%" height="100%" stroke-width="1.0451" xlink:href="#b"/>
+		<use transform="matrix(-.27902 .64189 -.64189 -.27902 59.159 18.646)" width="100%" height="100%" stroke-width="1.4288" xlink:href="#b"/>
+		<use transform="matrix(1.082 1.1808 -1.1808 1.082 59.084 1.0297)" width="100%" height="100%" stroke-width=".62438" xlink:href="#b"/>
+	</g>
+	<circle cx="43.83" cy="22.03" r="11.49" fill="url(#g)" style="paint-order:normal"/>
+	<path d="m5.2285 37.031c-1.724 0.027958-3.4673 0.15857-5.2285 0.39648v24.572l2 2h60l2-2v-15.445c-17.749 5.4072-36.783-9.88-58.771-9.5234z" fill="url(#l)" style="paint-order:normal"/>
+	<path d="m64 4-2-2 2-1z" fill="#6136c9"/>
+	<path d="m0 1v3l2-2z" fill="#c48bff"/>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="32" cy="46.734" r="32" gradientTransform="matrix(1.4154 0 0 1.3269 -13.292 -16.074)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#0c1116" stop-opacity=".25948" offset="0"/>
+			<stop stop-color="#0c1116" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 4v58l2 2h60l2-2v-58h-32z" color="#000000" fill="#405673"/>
+	<path d="m2 0-2 1v3h64v-3l-2-1h-60z" color="#000000" fill="#afc4df"/>
+	<path d="m0 3v3l2-2z" fill="#d4e1f0"/>
+	<path d="m64 6-2-2 2-1z" fill="#778ca8" fill-opacity=".99463"/>
+	<path d="m5 9v11h12v-11h-12zm28 0v11h12v-11h-12zm-14 13v11h12v-11h-12zm28 0v11h12v-11h-12zm-42 13v11h12v-11h-12zm28 0v11h12v-11h-12zm-14 13v11h12v-11h-12zm28 0v11h12v-11h-12z" color="#000000" fill="#fdffff" fill-opacity=".23137" fill-rule="evenodd"/>
+	<path d="m19 9v11h12v-11h-12zm28 0v11h12v-11h-12zm-42 13v11h12v-11h-12zm28 0v11h12v-11h-12zm-14 13v11h12v-11h-12zm28 0v11h12v-11h-12zm-42 13v11h12v-11h-12zm28 0v11h12v-11h-12z" color="#000000" fill="#ffffff" fill-opacity=".10196" fill-rule="evenodd"/>
+	<path d="m0 4v58l2 2h60l2-2v-58h-64z" color="#000000" fill="url(#a)"/>
+</svg>

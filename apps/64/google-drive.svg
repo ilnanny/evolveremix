@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<style type="text/css">.fil2 {fill:#11A861}
+    .fil0 {fill:#3777E3}
+    .fil1 {fill:#FFCF63}</style>
+		<radialGradient id="c" cx="45" cy="30.935" r="32" gradientTransform="matrix(1 0 0 .96875 0 1.0312)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#f3ba3c" stop-opacity=".25421" offset="0"/>
+			<stop stop-color="#f3ba3c" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="b" cx="40.59" cy="46.869" r="32" gradientTransform="matrix(1.2581 0 0 1.2188 -10.065 -12.122)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3176d5" stop-opacity=".37931" offset="0"/>
+			<stop stop-color="#3176d5" stop-opacity="0" offset="1"/>
+		</radialGradient>
+		<radialGradient id="a" cx="27.967" cy="34.901" r="32" gradientTransform="matrix(1 0 0 .96875 0 1.0312)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#20a869" stop-opacity=".13793" offset="0"/>
+			<stop stop-color="#20a869" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#b3bbcf"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#c)"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#b)"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h63.999v-1l-2-1h-42.437z" color="#000000" fill="#e7ecf0"/>
+	<path d="m64 4-2-2 2-1z" fill="#cbd1de" fill-opacity=".99228"/>
+	<path d="m0 1v3l2-2z" fill="#f2f4f7"/>
+	<g fill-rule="evenodd">
+		<path d="m38.938 15.812c-16.674 7.9328-25.932 18.999-20.844 36.125l12.062 12.062h30.562l3.2812-5.6562v-9.2812l-11.25-19.438z" fill="#000000" fill-opacity=".033681"/>
+		<path transform="matrix(.0003132 0 0 .0003132 11.148 15.812)" d="m110963 115341h-88769l4473.6-38447h62061c10122-8072.8 24728-8422 44428 0z" fill="#3176d5"/>
+		<path transform="matrix(.0003132 0 0 .0003132 11.148 15.812)" d="m44385 0-44385 76894 22194 38447 44384-76894c9752.8-16591-7246-27293-22193-38447z" fill="#20a869"/>
+		<path transform="matrix(.0003132 0 0 .0003132 11.148 15.812)" d="m44385 0 44387 76894h44384l-44384-76894z" fill="#f3ba3c"/>
+	</g>
+</svg>

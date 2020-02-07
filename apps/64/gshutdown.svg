@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<radialGradient id="a" cx="44.884" cy="47.788" r="32" gradientTransform="matrix(1.1563 0 0 1.1201 -5.8968 -4.5278)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#210e09" stop-opacity=".19407" offset="0"/>
+			<stop stop-color="#210e09" stop-opacity="0" offset="1"/>
+		</radialGradient>
+	</defs>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="#b3bbcf"/>
+	<path d="m0 2v60l2 2h60l2-2v-60h-32z" color="#000000" fill="url(#a)"/>
+	<path d="m2 0-2 1v1h63.999v-1l-2-1h-42.437z" color="#000000" fill="#e7ecf0"/>
+	<path d="m64 4-2-2 2-1z" fill="#cbd1de" fill-opacity=".99228"/>
+	<path d="m0 1v3l2-2z" fill="#f2f4f7"/>
+	<g transform="translate(0,-1)">
+		<path d="m46 12v45h-26v1l7 7h27v-21l8-16z" color="#000000" fill="#000000" fill-opacity=".060144"/>
+		<rect x="17" y="11" width="30" height="46" color="#000000" fill="#11212f" fill-opacity=".52952"/>
+		<path d="m18 12h28v45l-1 1h-26l-1-1z" color="#000000" fill="#a02c2c"/>
+		<path d="m18 12 1 6v40l-1-1z" color="#000000" fill="#eb5269"/>
+		<path d="m46 12-1 6v19 21l1-1z" color="#000000" fill="#751a1a"/>
+		<rect x="19" y="18" width="26" height="19" color="#000000" fill="#942121"/>
+		<rect transform="scale(1,-1)" x="19" y="-58" width="26" height="21" color="#000000" fill="#c8283a"/>
+		<path d="m18 12 1 6h26l1-6z" color="#000000" fill="#ff5f8e"/>
+		<rect x="31" y="43" width="2" height="9" color="#000000" fill="#ffffff" fill-opacity=".8059"/>
+		<path d="m32 24c-2.4853 0-4.5 1.567-4.5 3.5s2.0147 3.5 4.5 3.5 4.5-1.567 4.5-3.5-2.0147-3.5-4.5-3.5zm0 1.5556c1.3807 0 2.5 0.87056 2.5 1.9444s-1.1193 1.9444-2.5 1.9444-2.5-0.87056-2.5-1.9444 1.1193-1.9444 2.5-1.9444z" color="#000000" fill="#ffffff" fill-opacity=".53309"/>
+	</g>
+</svg>
