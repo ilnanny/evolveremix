@@ -1,0 +1,45 @@
+#!/bin/bash
+#================================================
+#================================================
+#   O.S.      : Gnu Linux                       =
+#   Author    : Cristian Pozzessere   = ilnanny =
+#   D.A.Page  : http://ilnanny.deviantart.com   =
+#   Github    : https://github.com/ilnanny      =
+#================================================
+#Project:evolveremix
+#================================================
+#Imposta l'utente Root
+set -o errexit
+[[ $(whoami) == 'root' ]] || exec sudo su -c $0 root
+mkdir /usr/share/icons/evolveremix
+echo "Copio il tema delle icone in /usr/share/icons"
+cp -a -r /media/Dati/Git/evolveremix/10x10 \
+128x128 \
+12x12 \
+16x16 \
+18x18 \
+20x20 \
+22x22 \
+24x24 \
+256x256 \
+32x32 \
+36x36 \
+48x48 \
+64x64 \
+8x8 \
+actions \
+animations \
+apps \
+categories \
+devices \
+emblems \
+extra \
+mimetypes \
+places \
+scalable \
+status \
+icon-theme.cache \
+index.theme  /usr/share/icons/evolveremix
+echo "Fatto ,puoi chiudere il terminale"
+exit 0
+
