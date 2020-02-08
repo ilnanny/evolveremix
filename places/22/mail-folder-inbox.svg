@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg13094"
-   height="16"
-   width="16"
+   height="22"
+   width="22"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="mail-folder-inbox.svg">
@@ -30,10 +30,10 @@
      inkscape:window-height="1033"
      id="namedview3007"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="7.4205483"
-     inkscape:cy="5.7413067"
-     inkscape:window-x="-2"
+     inkscape:zoom="29.5"
+     inkscape:cx="10.652914"
+     inkscape:cy="12.159599"
+     inkscape:window-x="-10"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
@@ -51,7 +51,11 @@
      inkscape:snap-center="true">
     <inkscape:grid
        type="xygrid"
-       id="grid2982" />
+       id="grid2982"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata13099">
@@ -66,30 +70,20 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;fill:#404957;fill-opacity:0.230837;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 2,0.9999999 2,6 l 2,0 0,5 8,0 0,-5 2,0 0,-5.0000001 z"
-     id="path3026"
+     sodipodi:nodetypes="ccccccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
+     id="path2987"
+     d="M 4,2.9999999 4,10 l 2,0 0,5 10,0 0,-5 2,0 0,-7.0000001 z"
+     style="color:#000000;fill:#414956;fill-opacity:0.15;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     style="color:#000000;fill:#f3f4f7;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m -19.206475,1 0,0.5625 7,5.4375 6.9999998,-5.4375 0,-0.5625 -13.9999998,0 z m 0,1.625 0,4.375 2,0 0,5 9.9999998,0 0,-5 2,0 0,-4.375 C -7.8011022,5.0092418 -10.701671,7.689478 -12.206475,9 c -1.505489,-1.309797 -4.40539,-3.9907674 -7,-6.375 z"
-     id="path3011"
-     inkscape:connector-curvature="0" />
-  <path
-     id="path3028"
-     d="m 0,7 0,8 2,0 12,0 2,0 0,-8 -3,0 0,5 -10,0 0,-5 z"
-     style="color:#000000;fill:#f3f4f7;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:nodetypes="ccccccccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccc" />
+     style="color:#000000;fill:#EDEFF3;fill-opacity:0.758;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 2,11 0,8 2,0 14,0 2,0 0,-8 -3,0 0,5 -12,0 0,-5 z"
+     id="path2989" />
   <path
-     style="color:#000000;fill:#f3f4f7;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m -20.206475,8 0,7 2,0 11.9999998,0 2,0 0,-7 -2,0 0,5 -11.9999998,0 0,-5 -2,0 z"
-     id="path3004"
-     inkscape:connector-curvature="0" />
-  <path
-     style="color:#000000;fill:#f3f4f7;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m -19.206475,2.625 0,0.75 7,7.625 6.9999998,-7.625 0,-0.75 c -0.3458,0.3177612 -0.67861,0.6444169 -1.03125,0.96875 C -8.5310342,5.7029694 -10.902224,7.8641386 -12.206475,9 -13.511319,7.8647669 -15.88205,5.7030993 -18.175225,3.59375 L -19.206475,2.625 z"
-     id="rect2986"
+     style="color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 3,2 3,9 4,9 4,3 18,3 18,9 19,9 19,3 19,2 4,2 3,2 z m -2,8 0,1 0,9 1,0 19,0 0,-1 0,-8 0,-1 -4,0 -1,0 0,5 -10,0 0,-4 0,-1 -5,0 z m 1,1 3,0 0,5 1,0 10,0 1,0 0,-5 3,0 0,8 -18,0 0,-8 z"
+     id="rect2991"
      inkscape:connector-curvature="0" />
 </svg>

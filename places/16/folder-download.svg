@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-download.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="download.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -31,9 +31,9 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
+     inkscape:window-height="1023"
+     inkscape:window-x="-10"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -83,9 +83,16 @@
      transform="translate(-375,-512.36218)">
     <path
        sodipodi:nodetypes="cccccccc"
-       style="fill:#f3f4f7;fill-opacity:0.928"
+       style="fill:#EDEFF3;fill-opacity:0.758"
        id="path2984"
        d="m 380,513.36218 0,5 -4,0 7,9 7,-9 -4,0 0,-5 z"
        inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 4,0 0,1 0,4 -3,0 -2.03125,0 1.25,2.09375 7,9 L 8,16.625 l 0.78125,-0.53125 7,-9 L 17.03125,5 15,5 12,5 12,1 12,0 11,0 5,0 z m 1,1 6,0 0,5 4,0 -7,9 -7,-9 4,0 z"
+       transform="translate(375,512.36218)"
+       id="path3000"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
   </g>
 </svg>

@@ -25,7 +25,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="10.281218"
+     inkscape:cx="5.3093735"
      inkscape:cy="12.441111"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -82,10 +82,15 @@
      id="layer1"
      transform="translate(-375,-506.36218)">
     <path
-       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       style="fill:#EDEFF3;fill-opacity:0.758"
+       id="path2984"
        d="m 383,508.36218 0,9 -4,0 7,9 7,-9 -4,0 0,-9 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 382,507.36218 0,9 -5.28125,0 1.34375,1.71875 7,9 0.9375,1.21875 0.9375,-1.21875 7,-9 1.34375,-1.71875 -5.28125,0 0,-9 -8,0 z m 1,1 6,0 0,9 4,0 -7,9 -7,-9 4,0 0,-9 z"
        id="path3000"
-       style="fill:#f3f4f7;fill-opacity:0.928"
-       sodipodi:nodetypes="cccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

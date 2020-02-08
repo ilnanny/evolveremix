@@ -14,7 +14,7 @@
    height="16"
    id="svg13094"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-documents.svg">
+   sodipodi:docname="document.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
+     inkscape:window-height="1032"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="41.7193"
-     inkscape:cx="10.394956"
+     inkscape:cx="6.6197249"
      inkscape:cy="7.2503461"
-     inkscape:window-x="-10"
+     inkscape:window-x="-7"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
@@ -66,9 +66,13 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 10,15 15,10 15,1 1,1 1,15 z M 9,14 9,9 14,9 z M 12,7 4,7 4,6 12,6 z M 12,5 4,5 4,4 12,4 z"
-     id="path3789"
-     style="fill:#f3f4f7;fill-opacity:0.928;fill-rule:nonzero"
+     sodipodi:nodetypes="cccccccccccccccccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
+     style="fill:#EDEFF3;fill-opacity:0.758;fill-rule:nonzero"
+     id="path2983"
+     d="M 10,15 15,10 15,1 1,1 1,15 z M 9,14 9,9 14,9 z M 12,7 4,7 4,6 12,6 z M 12,5 4,5 4,4 12,4 z" />
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 0 0 L 0 1 L 0 15 L 0 16 L 1 16 L 8 16 L 8 16.40625 L 8.40625 16 L 10 16 L 10.40625 16 L 10.96875 15.96875 L 15.96875 10.96875 L 16 10.40625 L 16 10 L 16 8.40625 L 16.40625 8 L 16 8 L 16 1 L 16 0 L 15 0 L 1 0 L 0 0 z M 1 1 L 15 1 L 15 10 L 13 12 L 10 15 L 1 15 L 1 1 z M 4 4 L 4 5 L 12 5 L 12 4 L 4 4 z M 4 6 L 4 7 L 12 7 L 12 6 L 4 6 z M 9 9 L 9 14 L 10 13 L 10 12 L 10 10 L 13 10 L 14 9 L 9 9 z "
+     id="path3789" />
 </svg>

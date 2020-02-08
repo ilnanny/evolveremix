@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="mail-folder-sent.svg">
   <defs
      id="defs3009" />
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1033"
      id="namedview3007"
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="14.02901"
      inkscape:cy="9.1218956"
-     inkscape:window-x="-2"
-     inkscape:window-y="32"
+     inkscape:window-x="-10"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13094"
      inkscape:snap-bbox="true"
@@ -68,13 +68,23 @@
   <path
      sodipodi:nodetypes="ccccccccccc"
      inkscape:connector-curvature="0"
-     style="color:#000000;fill:#f3f4f7;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#EDEFF3;fill-opacity:0.758;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 1,7 0,7 1,0 12,0 1,0 0,-7 -2,0 0,5 -10,0 0,-5 z"
      id="path2993" />
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f3f4f7;fill-opacity:0.928;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 0 6 L 0 7 L 0 14 L 0 15 L 1 15 L 2 15 L 14 15 L 15 15 L 16 15 L 16 14 L 16 7 L 16 6 L 15 6 L 13 6 L 12 6 L 12 7 L 12 11 L 4 11 L 4 7 L 4 6 L 3 6 L 1 6 L 0 6 z M 1 7 L 3 7 L 3 12 L 13 12 L 13 7 L 15 7 L 15 14 L 14 14 L 2 14 L 1 14 L 1 7 z "
+     id="path3028" />
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#EDEFF3;fill-opacity:0.758;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="M 5.46875,3.59375 4.03125,5.03125 8,9 15.71875,1.28125 14.28125,-0.15625 8,6.125 z"
      id="path2984"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 14.28125,-1.5625 13.5625,-0.875 8,4.6875 6.1875,2.875 5.46875,2.1875 4.75,2.875 5.46875,3.59375 8,6.125 14.28125,-0.15625 15,-0.875 z"
+     id="path3855"
+     sodipodi:nodetypes="ccccccccccc" />
 </svg>

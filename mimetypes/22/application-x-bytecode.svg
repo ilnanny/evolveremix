@@ -77,17 +77,17 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;fill:#27303a;fill-opacity:0.753280819999999968;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#EDEFF3;fill-opacity:0.758;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 3,3 0,4 0,4 0,4 0,4 1,0 3,0 4,0 4,0 4,0 0,-4 0,-4 0,-4 0,-3 0,-1 -1,0 -3,0 -4,0 -4,0 -4,0 z m 4,1 4,0 0,3 4,0 0,-3 3,0 0,3 -3,0 0,4 3,0 0,4 -3,0 0,3 -4,0 0,-3 -4,0 0,3 -3,0 0,-3 3,0 0,-4 -3,0 0,-4 3,0 0,-3 z m 0,3 0,4 4,0 0,-4 -4,0 z m 4,4 0,4 4,0 0,-4 -4,0 z"
      id="path3164"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;fill:#8a929e;fill-opacity:0.60931899;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#748598;fill-opacity:0.55;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 7,4 0,3 4,0 0,-3 -4,0 z m 4,3 0,4 4,0 0,-4 -4,0 z m 4,0 3,0 0,-3 -3,0 0,3 z m 0,4 0,4 3,0 0,-4 -3,0 z m 0,4 -4,0 0,3 4,0 0,-3 z m -4,0 0,-4 -4,0 0,4 4,0 z m -4,0 -3,0 0,3 3,0 0,-3 z m 0,-4 0,-4 -3,0 0,4 3,0 z"
      id="rect3001"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;fill:#f1f3f5;fill-opacity:0.90288714000000003;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#485462;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 2,2 2,20 20,20 20,2 2,2 z M 3,3 19,3 19,19 3,19 3,3 z"
      id="rect3056"
      inkscape:connector-curvature="0" />
