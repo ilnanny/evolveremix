@@ -11,8 +11,11 @@
 #Imposta l'utente Root
 set -o errexit
 [[ $(whoami) == 'root' ]] || exec sudo su -c $0 root
+rm -r  /usr/share/icons/evolveremix
 mkdir /usr/share/icons/evolveremix
+echo "----------------------------------------------"
 echo "Copio il tema delle icone in /usr/share/icons"
+echo "----------------------------------------------"
 cp -a -r /media/Dati/Git/evolveremix/10x10 \
 128x128 \
 12x12 \
@@ -40,6 +43,14 @@ scalable \
 status \
 icon-theme.cache \
 index.theme  /usr/share/icons/evolveremix
-echo "Fatto ,puoi chiudere il terminale"
+sleep 3 &&
+echo "----------------------------------------------"
+echo "      Installo  Lila HD Cursor"
+echo "----------------------------------------------"
+Lila_HD-cursor /usr/share/icons/
+sleep 3 &&
+echo "----------------------------------------------"
+echo "      Fatto ,puoi chiudere il terminale"
+echo "----------------------------------------------"
 exit 0
 
