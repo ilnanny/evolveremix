@@ -1,11 +1,11 @@
 [Icon Theme]
 Name=EvolvereMix
-Comment=A consistent, cross-environment, square icon theme
+Comment=A consistent,square icon theme
 Version=2.4
 
 DisplayDepth=32
 
-Inherits=gnome,breeze,hicolor
+Inherits=Lila_HD,breeze
 
 FollowsColorScheme=true
 

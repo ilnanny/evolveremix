@@ -6,51 +6,25 @@
 #   D.A.Page  : http://ilnanny.deviantart.com   =
 #   Github    : https://github.com/ilnanny      =
 #================================================
-#Project:evolveremix
+#Project:EvolvereMix
 #================================================
-#Imposta l'utente Root
+#
+#cd ..
 set -o errexit
 [[ $(whoami) == 'root' ]] || exec sudo su -c $0 root
-rm -r  /usr/share/icons/evolveremix
-mkdir /usr/share/icons/evolveremix
+#
 echo "----------------------------------------------"
 echo "Copio il tema delle icone in /usr/share/icons"
 echo "----------------------------------------------"
-cp -a -r /media/Dati/Git/evolveremix/10x10 \
-128x128 \
-12x12 \
-16x16 \
-18x18 \
-20x20 \
-22x22 \
-24x24 \
-256x256 \
-32x32 \
-36x36 \
-48x48 \
-64x64 \
-8x8 \
-actions \
-animations \
-apps \
-categories \
-devices \
-emblems \
-extra \
-mimetypes \
-places \
-scalable \
-status \
-icon-theme.cache \
-index.theme  /usr/share/icons/evolveremix
-sleep 3 &&
+cp -a -r /media/Dati/Git/EvolvereMix /usr/share/icons/
+sleep 2 &&
 echo "----------------------------------------------"
 echo "      Installo  Lila HD Cursor"
 echo "----------------------------------------------"
-Lila_HD-cursor /usr/share/icons/
-sleep 3 &&
+cp -a -r /media/Dati/Git/EvolvereMix/Lila_HD-cursor/ /usr/share/icons/
+rm -r /usr/share/icons/EvolvereMix/Lila_HD-cursor
+rm -r /usr/share/icons/EvolvereMix/.git
 echo "----------------------------------------------"
-echo "      Fatto ,puoi chiudere il terminale"
+echo "Tema di icone e cursore installato ,enjoy :D"
 echo "----------------------------------------------"
-exit 0
-
+exit 4
